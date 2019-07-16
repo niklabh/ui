@@ -15,6 +15,7 @@
 * [apiUrl](_types_.settingsstruct.md#apiurl)
 * [i18nLang](_types_.settingsstruct.md#i18nlang)
 * [locking](_types_.settingsstruct.md#locking)
+* [prefix](_types_.settingsstruct.md#prefix)
 * [uiMode](_types_.settingsstruct.md#uimode)
 * [uiTheme](_types_.settingsstruct.md#uitheme)
 
@@ -24,7 +25,7 @@
 
 • **apiUrl**: *string*
 
-*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/038774d/packages/ui-settings/src/types.ts#L12)*
+*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/0cf9284/packages/ui-settings/src/types.ts#L12)*
 
 ___
 
@@ -32,7 +33,7 @@ ___
 
 • **i18nLang**: *string*
 
-*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/038774d/packages/ui-settings/src/types.ts#L13)*
+*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/0cf9284/packages/ui-settings/src/types.ts#L13)*
 
 ___
 
@@ -40,7 +41,15 @@ ___
 
 • **locking**: *string*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/038774d/packages/ui-settings/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/0cf9284/packages/ui-settings/src/types.ts#L14)*
+
+___
+
+###  prefix
+
+• **prefix**: *number*
+
+*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/0cf9284/packages/ui-settings/src/types.ts#L15)*
 
 ___
 
@@ -48,7 +57,7 @@ ___
 
 • **uiMode**: *string*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/038774d/packages/ui-settings/src/types.ts#L15)*
+*Defined in [types.ts:16](https://github.com/polkadot-js/ui/blob/0cf9284/packages/ui-settings/src/types.ts#L16)*
 
 ___
 
@@ -56,4 +65,4 @@ ___
 
 • **uiTheme**: *string*
 
-*Defined in [types.ts:16](https://github.com/polkadot-js/ui/blob/038774d/packages/ui-settings/src/types.ts#L16)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/ui/blob/0cf9284/packages/ui-settings/src/types.ts#L17)*
