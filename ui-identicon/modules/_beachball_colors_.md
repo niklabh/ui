@@ -12,7 +12,7 @@
 
 ▸ **colors**(`seeder`: [Seeder](_beachball_types_.md#seeder)): *[ColorGen](../interfaces/_beachball_types_.colorgen.md)*
 
-*Defined in [beachball/colors.ts:14](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-identicon/src/beachball/colors.ts#L14)*
+*Defined in [beachball/colors.ts:14](https://github.com/polkadot-js/ui/blob/df5306b/packages/ui-identicon/src/beachball/colors.ts#L14)*
 
 **Parameters:**
 

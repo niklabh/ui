@@ -16,4 +16,4 @@
 
 Ƭ **Options**: *object[]*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-settings/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/df5306b/packages/ui-settings/src/types.ts#L5)*
