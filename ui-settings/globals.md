@@ -1,8 +1,8 @@
 > # Polkadot JS UI libraries
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["Settings"](modules/_settings_.md)
 * ["defaults"](modules/_defaults_.md)

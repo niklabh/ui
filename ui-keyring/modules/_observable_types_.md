@@ -1,8 +1,8 @@
 > # External module: "observable/types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [AddressSubject](../interfaces/_observable_types_.addresssubject.md)
 * [SingleAddress](../interfaces/_observable_types_.singleaddress.md)

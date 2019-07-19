@@ -1,7 +1,7 @@
 > # External module: "Identicon"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [IdentityIcon](../classes/_identicon_.identityicon.md)

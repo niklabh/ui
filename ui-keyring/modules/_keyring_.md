@@ -1,7 +1,7 @@
 > # External module: "Keyring"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [Keyring](../classes/_keyring_.keyring.md)

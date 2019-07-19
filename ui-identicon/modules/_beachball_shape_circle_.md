@@ -1,8 +1,8 @@
 > # External module: "beachball/shape/circle"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [circle](_beachball_shape_circle_.md#circle)
 
@@ -12,7 +12,7 @@
 
 ▸ **circle**(`seeder`: [Seeder](_beachball_types_.md#seeder), `fill`: string, `diameter`: number, `count`: number): *`Element`*
 
-*Defined in [beachball/shape/circle.ts:11](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-identicon/src/beachball/shape/circle.ts#L11)*
+*Defined in [beachball/shape/circle.ts:11](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-identicon/src/beachball/shape/circle.ts#L11)*
 
 **Parameters:**
 

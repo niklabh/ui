@@ -4,9 +4,9 @@
 
 * **ContractMeta**
 
-### Index
+## Index
 
-#### Properties
+### Properties
 
 * [abi](_types_.contractmeta.md#abi)
 * [genesisHash](_types_.contractmeta.md#optional-genesishash)
@@ -17,7 +17,7 @@
 
 • **abi**: *string*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/types.ts#L11)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **genesisHash**? : *undefined | string*
 
-*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/types.ts#L12)*
+*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/types.ts#L12)*

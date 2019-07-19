@@ -1,8 +1,8 @@
 > # Polkadot JS UI libraries
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["Base"](modules/_base_.md)
 * ["Keyring"](modules/_keyring_.md)

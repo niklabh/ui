@@ -1,7 +1,7 @@
 > # External module: "icons/Beachball"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [Beachball](../classes/_icons_beachball_.beachball.md)

@@ -1,8 +1,8 @@
 > # Polkadot JS UI libraries
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["Demo"](modules/_demo_.md)
 * ["Identicon"](modules/_identicon_.md)

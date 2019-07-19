@@ -14,9 +14,9 @@
 
   * **Demo**
 
-### Index
+## Index
 
-#### Methods
+### Methods
 
 * [UNSAFE_componentWillMount](_demo_.demo.md#optional-unsafe_componentwillmount)
 * [UNSAFE_componentWillReceiveProps](_demo_.demo.md#optional-unsafe_componentwillreceiveprops)
@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *`React.ReactNode`*
 
-*Defined in [Demo.tsx:12](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-identicon/src/Demo.tsx#L12)*
+*Defined in [Demo.tsx:12](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-identicon/src/Demo.tsx#L12)*
 
 **Returns:** *`React.ReactNode`*
 

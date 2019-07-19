@@ -1,8 +1,8 @@
 > # External module: "beachball/container"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [container](_beachball_container_.md#container)
 
@@ -12,7 +12,7 @@
 
 ▸ **container**(`diameter`: number, `background`: string, `className`: string, `_style`: object): *`HTMLElement`*
 
-*Defined in [beachball/container.ts:6](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-identicon/src/beachball/container.ts#L6)*
+*Defined in [beachball/container.ts:6](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-identicon/src/beachball/container.ts#L6)*
 
 **Parameters:**
 

@@ -12,9 +12,9 @@
 
   * **Beachball**
 
-### Index
+## Index
 
-#### Methods
+### Methods
 
 * [UNSAFE_componentWillMount](_icons_beachball_.beachball.md#optional-unsafe_componentwillmount)
 * [UNSAFE_componentWillReceiveProps](_icons_beachball_.beachball.md#optional-unsafe_componentwillreceiveprops)
@@ -325,7 +325,7 @@ ___
 
 ▸ **render**(): *`React.ReactNode`*
 
-*Defined in [icons/Beachball.tsx:12](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-identicon/src/icons/Beachball.tsx#L12)*
+*Defined in [icons/Beachball.tsx:12](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-identicon/src/icons/Beachball.tsx#L12)*
 
 **Returns:** *`React.ReactNode`*
 

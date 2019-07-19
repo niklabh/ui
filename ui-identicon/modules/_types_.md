@@ -1,8 +1,8 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [BaseProps](../interfaces/_types_.baseprops.md)
 * [IdentityProps](../interfaces/_types_.identityprops.md)

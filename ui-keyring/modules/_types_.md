@@ -1,8 +1,8 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [ContractMeta](../interfaces/_types_.contractmeta.md)
 * [CreateResult](../interfaces/_types_.createresult.md)
@@ -13,7 +13,7 @@
 * [KeyringStore](../interfaces/_types_.keyringstore.md)
 * [KeyringStruct](../interfaces/_types_.keyringstruct.md)
 
-#### Type aliases
+### Type aliases
 
 * [KeyringAddressType](_types_.md#keyringaddresstype)
 * [KeyringItemType](_types_.md#keyringitemtype)
@@ -24,7 +24,7 @@
 
 Ƭ **KeyringAddressType**: *"address" | "contract"*
 
-*Defined in [types.ts:54](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/types.ts#L54)*
+*Defined in [types.ts:54](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/types.ts#L54)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 Ƭ **KeyringItemType**: *"account" | [KeyringAddressType](_types_.md#keyringaddresstype)*
 
-*Defined in [types.ts:56](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/types.ts#L56)*
+*Defined in [types.ts:56](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/types.ts#L56)*

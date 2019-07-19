@@ -1,8 +1,8 @@
 > # External module: "options/item"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [createItem](_options_item_.md#createitem)
 
@@ -12,7 +12,7 @@
 
 ▸ **createItem**(`address`: string, `_name?`: undefined | string, `isUppercase`: boolean): *[KeyringSectionOption](../interfaces/_options_types_.keyringsectionoption.md)*
 
-*Defined in [options/item.tsx:12](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/options/item.tsx#L12)*
+*Defined in [options/item.tsx:12](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/options/item.tsx#L12)*
 
 **Parameters:**
 

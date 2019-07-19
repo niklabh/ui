@@ -4,9 +4,9 @@
 
 * **KeyringOptionInstance**
 
-### Index
+## Index
 
-#### Properties
+### Properties
 
 * [createOptionHeader](_options_types_.keyringoptioninstance.md#createoptionheader)
 * [init](_options_types_.keyringoptioninstance.md#init)
@@ -17,7 +17,7 @@
 
 • **createOptionHeader**: *function*
 
-*Defined in [options/types.ts:28](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/options/types.ts#L28)*
+*Defined in [options/types.ts:28](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/options/types.ts#L28)*
 
 #### Type declaration:
 
@@ -35,7 +35,7 @@ ___
 
 • **init**: *function*
 
-*Defined in [options/types.ts:29](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-keyring/src/options/types.ts#L29)*
+*Defined in [options/types.ts:29](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-keyring/src/options/types.ts#L29)*
 
 #### Type declaration:
 

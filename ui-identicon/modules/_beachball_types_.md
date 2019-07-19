@@ -1,12 +1,12 @@
 > # External module: "beachball/types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [ColorGen](../interfaces/_beachball_types_.colorgen.md)
 
-#### Type aliases
+### Type aliases
 
 * [Seeder](_beachball_types_.md#seeder)
 
@@ -16,7 +16,7 @@
 
 Ƭ **Seeder**: *function*
 
-*Defined in [beachball/types.ts:5](https://github.com/polkadot-js/ui/blob/b7df946/packages/ui-identicon/src/beachball/types.ts#L5)*
+*Defined in [beachball/types.ts:5](https://github.com/polkadot-js/ui/blob/76ccfb3/packages/ui-identicon/src/beachball/types.ts#L5)*
 
 #### Type declaration:
 
