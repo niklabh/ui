@@ -325,7 +325,7 @@ ___
 
 ▸ **render**(): *`React.ReactNode`*
 
-*Defined in [icons/Polkadot.tsx:52](https://github.com/polkadot-js/ui/blob/df5306b/packages/ui-identicon/src/icons/Polkadot.tsx#L52)*
+*Defined in [icons/Polkadot.tsx:52](https://github.com/polkadot-js/ui/blob/3f2ac8a/packages/ui-identicon/src/icons/Polkadot.tsx#L52)*
 
 **Returns:** *`React.ReactNode`*
 
