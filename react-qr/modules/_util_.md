@@ -14,7 +14,7 @@
 
 ▸ **decodeString**(`value`: `Uint8Array`): *string*
 
-*Defined in [util.ts:19](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/util.ts#L19)*
+*Defined in [util.ts:19](https://github.com/polkadot-js/ui/blob/1b81868/packages/react-qr/src/util.ts#L19)*
 
 **Parameters:**
 
@@ -30,7 +30,7 @@ ___
 
 ▸ **encodeNumber**(`value`: number): *`Uint8Array`*
 
-*Defined in [util.ts:5](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/util.ts#L5)*
+*Defined in [util.ts:5](https://github.com/polkadot-js/ui/blob/1b81868/packages/react-qr/src/util.ts#L5)*
 
 **Parameters:**
 
@@ -46,7 +46,7 @@ ___
 
 ▸ **encodeString**(`value`: string): *`Uint8Array`*
 
-*Defined in [util.ts:9](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/util.ts#L9)*
+*Defined in [util.ts:9](https://github.com/polkadot-js/ui/blob/1b81868/packages/react-qr/src/util.ts#L9)*
 
 **Parameters:**
 

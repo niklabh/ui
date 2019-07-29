@@ -8,7 +8,7 @@
 
 ▸ (`alpha?`: undefined | number): *string*
 
-*Defined in [beachball/types.ts:7](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-identicon/src/beachball/types.ts#L7)*
+*Defined in [beachball/types.ts:7](https://github.com/polkadot-js/ui/blob/1b81868/packages/react-identicon/src/beachball/types.ts#L7)*
 
 **Parameters:**
 
