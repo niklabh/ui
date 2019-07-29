@@ -17,7 +17,7 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/1b81868/packages/react-qr/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/f7bd11a/packages/react-qr/src/types.ts#L6)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **style**? : *`Record<string, string | number>`*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/1b81868/packages/react-qr/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/f7bd11a/packages/react-qr/src/types.ts#L7)*
