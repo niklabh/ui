@@ -41,7 +41,7 @@
 
 \+ **new Settings**(): *[Settings](_settings_.settings.md)*
 
-*Defined in [Settings.ts:22](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L22)*
+*Defined in [Settings.ts:22](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L22)*
 
 **Returns:** *[Settings](_settings_.settings.md)*
 
@@ -51,7 +51,7 @@
 
 • **get apiUrl**(): *string*
 
-*Defined in [Settings.ts:35](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L35)*
+*Defined in [Settings.ts:35](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L35)*
 
 **Returns:** *string*
 
@@ -61,7 +61,7 @@ ___
 
 • **get availableCryptos**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:63](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L63)*
+*Defined in [Settings.ts:63](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L63)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -71,7 +71,7 @@ ___
 
 • **get availableLanguages**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:67](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L67)*
+*Defined in [Settings.ts:67](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L67)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -81,7 +81,7 @@ ___
 
 • **get availableLocking**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:71](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L71)*
+*Defined in [Settings.ts:71](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L71)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -91,7 +91,7 @@ ___
 
 • **get availableNodes**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:59](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L59)*
+*Defined in [Settings.ts:59](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L59)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -101,7 +101,7 @@ ___
 
 • **get availablePrefixes**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:75](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L75)*
+*Defined in [Settings.ts:75](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L75)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -111,7 +111,7 @@ ___
 
 • **get availableUIModes**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:79](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L79)*
+*Defined in [Settings.ts:79](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L79)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -121,7 +121,7 @@ ___
 
 • **get availableUIThemes**(): *[Options](../modules/_types_.md#options)*
 
-*Defined in [Settings.ts:83](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L83)*
+*Defined in [Settings.ts:83](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L83)*
 
 **Returns:** *[Options](../modules/_types_.md#options)*
 
@@ -131,7 +131,7 @@ ___
 
 • **get i18nLang**(): *string*
 
-*Defined in [Settings.ts:39](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L39)*
+*Defined in [Settings.ts:39](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L39)*
 
 **Returns:** *string*
 
@@ -141,7 +141,7 @@ ___
 
 • **get locking**(): *string*
 
-*Defined in [Settings.ts:43](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L43)*
+*Defined in [Settings.ts:43](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L43)*
 
 **Returns:** *string*
 
@@ -151,7 +151,7 @@ ___
 
 • **get prefix**(): *number*
 
-*Defined in [Settings.ts:47](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L47)*
+*Defined in [Settings.ts:47](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L47)*
 
 **Returns:** *number*
 
@@ -161,7 +161,7 @@ ___
 
 • **get uiMode**(): *string*
 
-*Defined in [Settings.ts:51](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L51)*
+*Defined in [Settings.ts:51](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L51)*
 
 **Returns:** *string*
 
@@ -171,7 +171,7 @@ ___
 
 • **get uiTheme**(): *string*
 
-*Defined in [Settings.ts:55](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L55)*
+*Defined in [Settings.ts:55](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L55)*
 
 **Returns:** *string*
 
@@ -181,7 +181,7 @@ ___
 
 ▸ **get**(): *[SettingsStruct](../interfaces/_types_.settingsstruct.md)*
 
-*Defined in [Settings.ts:87](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L87)*
+*Defined in [Settings.ts:87](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L87)*
 
 **Returns:** *[SettingsStruct](../interfaces/_types_.settingsstruct.md)*
 
@@ -191,7 +191,7 @@ ___
 
 ▸ **set**(`settings`: `Partial<SettingsStruct>`): *void*
 
-*Defined in [Settings.ts:98](https://github.com/polkadot-js/ui/blob/9664b72/packages/ui-settings/src/Settings.ts#L98)*
+*Defined in [Settings.ts:98](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/ui-settings/src/Settings.ts#L98)*
 
 **Parameters:**
 

@@ -24,10 +24,10 @@
 * [componentWillReceiveProps](_displaypayload_.displaypayload.md#optional-componentwillreceiveprops)
 * [componentWillUnmount](_displaypayload_.displaypayload.md#optional-componentwillunmount)
 * [componentWillUpdate](_displaypayload_.displaypayload.md#optional-componentwillupdate)
-* [getDerivedStateFromProps](_displaypayload_.displaypayload.md#getderivedstatefromprops)
 * [getSnapshotBeforeUpdate](_displaypayload_.displaypayload.md#optional-getsnapshotbeforeupdate)
 * [render](_displaypayload_.displaypayload.md#render)
 * [shouldComponentUpdate](_displaypayload_.displaypayload.md#optional-shouldcomponentupdate)
+* [getDerivedStateFromProps](_displaypayload_.displaypayload.md#static-getderivedstatefromprops)
 
 ### Object literals
 
@@ -298,23 +298,6 @@ Name | Type |
 
 ___
 
-###  getDerivedStateFromProps
-
-▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: `State`): *`State` | null*
-
-*Defined in [DisplayPayload.tsx:33](https://github.com/polkadot-js/ui/blob/9664b72/packages/react-qr/src/DisplayPayload.tsx#L33)*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`__namedParameters` | object |
-`prevState` | `State` |
-
-**Returns:** *`State` | null*
-
-___
-
 ### `Optional` getSnapshotBeforeUpdate
 
 ▸ **getSnapshotBeforeUpdate**(`prevProps`: `Readonly<Props>`, `prevState`: `Readonly<State>`): *`SS` | null*
@@ -345,7 +328,7 @@ ___
 
 ▸ **render**(): *`React.ReactNode`*
 
-*Defined in [DisplayPayload.tsx:50](https://github.com/polkadot-js/ui/blob/9664b72/packages/react-qr/src/DisplayPayload.tsx#L50)*
+*Defined in [DisplayPayload.tsx:50](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/DisplayPayload.tsx#L50)*
 
 **Returns:** *`React.ReactNode`*
 
@@ -378,22 +361,39 @@ Name | Type |
 
 **Returns:** *boolean*
 
+___
+
+### `Static` getDerivedStateFromProps
+
+▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: `State`): *`State` | null*
+
+*Defined in [DisplayPayload.tsx:33](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/DisplayPayload.tsx#L33)*
+
+**Parameters:**
+
+Name | Type |
+------ | ------ |
+`__namedParameters` | object |
+`prevState` | `State` |
+
+**Returns:** *`State` | null*
+
 ## Object literals
 
 ###  state
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayPayload.tsx:28](https://github.com/polkadot-js/ui/blob/9664b72/packages/react-qr/src/DisplayPayload.tsx#L28)*
+*Defined in [DisplayPayload.tsx:28](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/DisplayPayload.tsx#L28)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayPayload.tsx:29](https://github.com/polkadot-js/ui/blob/9664b72/packages/react-qr/src/DisplayPayload.tsx#L29)*
+*Defined in [DisplayPayload.tsx:29](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/DisplayPayload.tsx#L29)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/9664b72/packages/react-qr/src/DisplayPayload.tsx#L30)*
+*Defined in [DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/c3f57c1/packages/react-qr/src/DisplayPayload.tsx#L30)*
