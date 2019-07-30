@@ -12,5 +12,6 @@
 * ["ScanSignature"](modules/_scansignature_.md)
 * ["constants"](modules/_constants_.md)
 * ["index"](modules/_index_.md)
+* ["qrcode"](modules/_qrcode_.md)
 * ["types"](modules/_types_.md)
 * ["util"](modules/_util_.md)
