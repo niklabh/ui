@@ -12,7 +12,7 @@
 
 ▸ **container**(`diameter`: number, `background`: string, `className`: string, `_style`: object): *`HTMLElement`*
 
-*Defined in [beachballIcon/container.ts:6](https://github.com/polkadot-js/ui/blob/e0e5423/packages/ui-shared/src/beachballIcon/container.ts#L6)*
+*Defined in [beachballIcon/container.ts:6](https://github.com/polkadot-js/ui/blob/874d297/packages/ui-shared/src/beachballIcon/container.ts#L6)*
 
 **Parameters:**
 
