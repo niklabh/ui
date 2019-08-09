@@ -62,7 +62,7 @@
   }
 })
 
-*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/85a8a3a/packages/vue-identicon/src/Identicon.ts#L28)*
+*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/e0e5423/packages/vue-identicon/src/Identicon.ts#L28)*
 
 **`name`** Identicon
 

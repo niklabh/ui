@@ -21,12 +21,12 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/85a8a3a/packages/react-identicon/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/e0e5423/packages/react-identicon/src/types.ts#L8)*
 
 ___
 
 ### `Optional` style
 
-• **style**? : *`Record<string, any>`*
+• **style**? : *`Record<string, string | number>`*
 
-*Defined in [types.ts:10](https://github.com/polkadot-js/ui/blob/85a8a3a/packages/react-identicon/src/types.ts#L10)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/e0e5423/packages/react-identicon/src/types.ts#L9)*
