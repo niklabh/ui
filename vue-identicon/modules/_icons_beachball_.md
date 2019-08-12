@@ -28,7 +28,7 @@
   }
 })
 
-*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/dbc9dd7/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/e481af9/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 
