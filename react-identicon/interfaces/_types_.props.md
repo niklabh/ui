@@ -22,7 +22,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/e481af9/packages/react-identicon/src/types.ts#L13)*
+*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/7f68029/packages/react-identicon/src/types.ts#L13)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 *Inherited from [BaseProps](_types_.baseprops.md).[className](_types_.baseprops.md#optional-classname)*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/e481af9/packages/react-identicon/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/7f68029/packages/react-identicon/src/types.ts#L8)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **publicKey**: *string*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/e481af9/packages/react-identicon/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/7f68029/packages/react-identicon/src/types.ts#L14)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **size**: *number*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/e481af9/packages/react-identicon/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/7f68029/packages/react-identicon/src/types.ts#L15)*
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 *Inherited from [BaseProps](_types_.baseprops.md).[style](_types_.baseprops.md#optional-style)*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/e481af9/packages/react-identicon/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/7f68029/packages/react-identicon/src/types.ts#L9)*
