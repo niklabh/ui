@@ -6,7 +6,7 @@
 
 ## Hierarchy
 
-* `PureComponent<Props, State>`
+* PureComponent‹Props, State›
 
   * **DisplayExtrinsic**
 
@@ -41,7 +41,7 @@
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:639
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:638
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -63,11 +63,11 @@ ___
 
 ### `Optional` UNSAFE_componentWillReceiveProps
 
-▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: `Readonly<Props>`, `nextContext`: any): *void*
+▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹Props›, `nextContext`: any): *void*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:671
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:670
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -90,7 +90,7 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | `Readonly<Props>` |
+`nextProps` | Readonly‹Props› |
 `nextContext` | any |
 
 **Returns:** *void*
@@ -99,11 +99,11 @@ ___
 
 ### `Optional` UNSAFE_componentWillUpdate
 
-▸ **UNSAFE_componentWillUpdate**(`nextProps`: `Readonly<Props>`, `nextState`: `Readonly<State>`, `nextContext`: any): *void*
+▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹Props›, `nextState`: Readonly‹State›, `nextContext`: any): *void*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:699
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:698
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -124,8 +124,8 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | `Readonly<Props>` |
-`nextState` | `Readonly<State>` |
+`nextProps` | Readonly‹Props› |
+`nextState` | Readonly‹State› |
 `nextContext` | any |
 
 **Returns:** *void*
@@ -134,11 +134,11 @@ ___
 
 ### `Optional` componentDidCatch
 
-▸ **componentDidCatch**(`error`: `Error`, `errorInfo`: `ErrorInfo`): *void*
+▸ **componentDidCatch**(`error`: Error, `errorInfo`: ErrorInfo): *void*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:568
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:567
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -147,8 +147,8 @@ the entire component tree to unmount.
 
 Name | Type |
 ------ | ------ |
-`error` | `Error` |
-`errorInfo` | `ErrorInfo` |
+`error` | Error |
+`errorInfo` | ErrorInfo |
 
 **Returns:** *void*
 
@@ -160,7 +160,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:547
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:546
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -170,11 +170,11 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: `Readonly<Props>`, `prevState`: `Readonly<State>`, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›, `snapshot?`: [SS]()): *void*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:610
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:609
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -184,8 +184,8 @@ The snapshot is only present if getSnapshotBeforeUpdate is present and returns n
 
 Name | Type |
 ------ | ------ |
-`prevProps` | `Readonly<Props>` |
-`prevState` | `Readonly<State>` |
+`prevProps` | Readonly‹Props› |
+`prevState` | Readonly‹State› |
 `snapshot?` | [SS]() |
 
 **Returns:** *void*
@@ -198,7 +198,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:625
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:624
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -218,11 +218,11 @@ ___
 
 ### `Optional` componentWillReceiveProps
 
-▸ **componentWillReceiveProps**(`nextProps`: `Readonly<Props>`, `nextContext`: any): *void*
+▸ **componentWillReceiveProps**(`nextProps`: Readonly‹Props›, `nextContext`: any): *void*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:654
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:653
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -243,7 +243,7 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | `Readonly<Props>` |
+`nextProps` | Readonly‹Props› |
 `nextContext` | any |
 
 **Returns:** *void*
@@ -256,7 +256,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:563
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:562
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -267,11 +267,11 @@ ___
 
 ### `Optional` componentWillUpdate
 
-▸ **componentWillUpdate**(`nextProps`: `Readonly<Props>`, `nextState`: `Readonly<State>`, `nextContext`: any): *void*
+▸ **componentWillUpdate**(`nextProps`: Readonly‹Props›, `nextState`: Readonly‹State›, `nextContext`: any): *void*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:684
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:683
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -290,8 +290,8 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | `Readonly<Props>` |
-`nextState` | `Readonly<State>` |
+`nextProps` | Readonly‹Props› |
+`nextState` | Readonly‹State› |
 `nextContext` | any |
 
 **Returns:** *void*
@@ -300,11 +300,11 @@ ___
 
 ### `Optional` getSnapshotBeforeUpdate
 
-▸ **getSnapshotBeforeUpdate**(`prevProps`: `Readonly<Props>`, `prevState`: `Readonly<State>`): *`SS` | null*
+▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›): *SS | null*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:604
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:603
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -317,30 +317,30 @@ lifecycle events from running.
 
 Name | Type |
 ------ | ------ |
-`prevProps` | `Readonly<Props>` |
-`prevState` | `Readonly<State>` |
+`prevProps` | Readonly‹Props› |
+`prevState` | Readonly‹State› |
 
-**Returns:** *`SS` | null*
+**Returns:** *SS | null*
 
 ___
 
 ###  render
 
-▸ **render**(): *`React.ReactNode`*
+▸ **render**(): *React.ReactNode*
 
-*Defined in [DisplayAddress.tsx:39](https://github.com/polkadot-js/ui/blob/a5dde02/packages/react-qr/src/DisplayAddress.tsx#L39)*
+*Defined in [DisplayAddress.tsx:39](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/react-qr/src/DisplayAddress.tsx#L39)*
 
-**Returns:** *`React.ReactNode`*
+**Returns:** *React.ReactNode*
 
 ___
 
 ### `Optional` shouldComponentUpdate
 
-▸ **shouldComponentUpdate**(`nextProps`: `Readonly<Props>`, `nextState`: `Readonly<State>`, `nextContext`: any): *boolean*
+▸ **shouldComponentUpdate**(`nextProps`: Readonly‹Props›, `nextState`: Readonly‹State›, `nextContext`: any): *boolean*
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:558
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:557
 
 Called to determine whether the change in props and state should trigger a re-render.
 
@@ -355,8 +355,8 @@ and `componentDidUpdate` will not be called.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | `Readonly<Props>` |
-`nextState` | `Readonly<State>` |
+`nextProps` | Readonly‹Props› |
+`nextState` | Readonly‹State› |
 `nextContext` | any |
 
 **Returns:** *boolean*
@@ -365,18 +365,18 @@ ___
 
 ### `Static` getDerivedStateFromProps
 
-▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: `State`): *`State` | null*
+▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [DisplayAddress.tsx:28](https://github.com/polkadot-js/ui/blob/a5dde02/packages/react-qr/src/DisplayAddress.tsx#L28)*
+*Defined in [DisplayAddress.tsx:28](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/react-qr/src/DisplayAddress.tsx#L28)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
 `__namedParameters` | object |
-`prevState` | `State` |
+`prevState` | State |
 
-**Returns:** *`State` | null*
+**Returns:** *State | null*
 
 ## Object literals
 
@@ -384,16 +384,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayAddress.tsx:23](https://github.com/polkadot-js/ui/blob/a5dde02/packages/react-qr/src/DisplayAddress.tsx#L23)*
+*Defined in [DisplayAddress.tsx:23](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/react-qr/src/DisplayAddress.tsx#L23)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/a5dde02/packages/react-qr/src/DisplayAddress.tsx#L24)*
+*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/react-qr/src/DisplayAddress.tsx#L24)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/a5dde02/packages/react-qr/src/DisplayAddress.tsx#L25)*
+*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/react-qr/src/DisplayAddress.tsx#L25)*

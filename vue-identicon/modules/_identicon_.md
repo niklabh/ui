@@ -10,7 +10,7 @@
 
 ### `Const` Identicon
 
-• **Identicon**: *`VueConstructor<Data & object & object & Vue>`* =  Vue.extend({
+• **Identicon**: *VueConstructor‹Data & object & object & Vue›* =  Vue.extend({
   // FIXME These nested divs are not correct, would like a different way
   // here so we don't create a div wrapped for the div wrapper of the icon
   template: `
@@ -62,7 +62,7 @@
   }
 })
 
-*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/a5dde02/packages/vue-identicon/src/Identicon.ts#L28)*
+*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/vue-identicon/src/Identicon.ts#L28)*
 
 **`name`** Identicon
 

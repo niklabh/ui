@@ -10,7 +10,7 @@
 
 ### `Const` Empty
 
-• **Empty**: *`VueConstructor<object & Vue>`* =  Vue.extend({
+• **Empty**: *VueConstructor‹object & Vue›* =  Vue.extend({
   template: `
     <svg :height="size" :width="size" viewBox="0 0 64 64">
       <circle cx="50%" cy="50%" fill="#eee" r="50%" />
@@ -19,7 +19,7 @@
   props: ['size']
 })
 
-*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/a5dde02/packages/vue-identicon/src/icons/Empty.ts#L11)*
+*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/vue-identicon/src/icons/Empty.ts#L11)*
 
 **`name`** Empty
 

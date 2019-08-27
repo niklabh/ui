@@ -10,11 +10,13 @@
 
 ### `Const` Jdenticon
 
-• **Jdenticon**: *`VueConstructor<Data & object & object & Vue>`* =  Vue.extend({
+• **Jdenticon**: *VueConstructor‹Data & object & object & Vue›* =  Vue.extend({
+  // eslint-disable-next-line quotes
   template: `<div v-html="svgHtml" />`,
   props: ['publicKey', 'size'],
   data: function (): Data {
     return {
+      // eslint-disable-next-line quotes
       svgHtml: `<svg viewBox="0 0 64 64" />`
     };
   },
@@ -28,7 +30,7 @@
   }
 })
 
-*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/a5dde02/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 

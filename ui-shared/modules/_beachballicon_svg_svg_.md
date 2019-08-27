@@ -10,9 +10,9 @@
 
 ###  svg
 
-▸ **svg**(`type`: string): *`Element`*
+▸ **svg**(`type`: string): *Element*
 
-*Defined in [beachballIcon/svg/svg.ts:8](https://github.com/polkadot-js/ui/blob/a5dde02/packages/ui-shared/src/beachballIcon/svg/svg.ts#L8)*
+*Defined in [beachballIcon/svg/svg.ts:8](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/ui-shared/src/beachballIcon/svg/svg.ts#L8)*
 
 **Parameters:**
 
@@ -20,4 +20,4 @@ Name | Type |
 ------ | ------ |
 `type` | string |
 
-**Returns:** *`Element`*
+**Returns:** *Element*

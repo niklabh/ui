@@ -15,14 +15,14 @@
 
 ###  json
 
-• **json**: *`KeyringPair$Json`*
+• **json**: *KeyringPair$Json*
 
-*Defined in [types.ts:59](https://github.com/polkadot-js/ui/blob/a5dde02/packages/ui-keyring/src/types.ts#L59)*
+*Defined in [types.ts:59](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/ui-keyring/src/types.ts#L59)*
 
 ___
 
 ###  pair
 
-• **pair**: *`KeyringPair`*
+• **pair**: *KeyringPair*
 
-*Defined in [types.ts:60](https://github.com/polkadot-js/ui/blob/a5dde02/packages/ui-keyring/src/types.ts#L60)*
+*Defined in [types.ts:60](https://github.com/polkadot-js/ui/blob/2c1dadc/packages/ui-keyring/src/types.ts#L60)*
