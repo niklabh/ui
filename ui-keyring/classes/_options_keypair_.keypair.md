@@ -325,7 +325,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [options/KeyPair.tsx:55](https://github.com/polkadot-js/ui/blob/b548b23/packages/ui-keyring/src/options/KeyPair.tsx#L55)*
+*Defined in [options/KeyPair.tsx:55](https://github.com/polkadot-js/ui/blob/eb4035e/packages/ui-keyring/src/options/KeyPair.tsx#L55)*
 
 **Returns:** *React.ReactNode*
 
