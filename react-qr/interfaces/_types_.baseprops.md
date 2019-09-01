@@ -9,6 +9,7 @@
 ### Properties
 
 * [className](_types_.baseprops.md#optional-classname)
+* [size](_types_.baseprops.md#optional-size)
 * [style](_types_.baseprops.md#optional-style)
 
 ## Properties
@@ -17,7 +18,15 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/876410c/packages/react-qr/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/556d07b/packages/react-qr/src/types.ts#L6)*
+
+___
+
+### `Optional` size
+
+• **size**? : *string | number*
+
+*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/556d07b/packages/react-qr/src/types.ts#L7)*
 
 ___
 
@@ -25,4 +34,4 @@ ___
 
 • **style**? : *Record‹string, string | number›*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/876410c/packages/react-qr/src/types.ts#L7)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/556d07b/packages/react-qr/src/types.ts#L8)*
