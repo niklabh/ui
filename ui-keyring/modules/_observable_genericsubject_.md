@@ -12,7 +12,7 @@
 
 ▸ **genericSubject**(`keyCreator`: function, `withTest`: boolean): *[AddressSubject](../interfaces/_observable_types_.addresssubject.md)*
 
-*Defined in [observable/genericSubject.ts:28](https://github.com/polkadot-js/ui/blob/f30a94b/packages/ui-keyring/src/observable/genericSubject.ts#L28)*
+*Defined in [observable/genericSubject.ts:28](https://github.com/polkadot-js/ui/blob/6e4f9df/packages/ui-keyring/src/observable/genericSubject.ts#L28)*
 
 **Parameters:**
 
