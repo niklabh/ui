@@ -17,7 +17,7 @@
 
 • **json**: *[KeyringJson](_types_.keyringjson.md)*
 
-*Defined in [observable/types.ts:10](https://github.com/polkadot-js/ui/blob/6e4f9df/packages/ui-keyring/src/observable/types.ts#L10)*
+*Defined in [observable/types.ts:10](https://github.com/polkadot-js/ui/blob/1243184/packages/ui-keyring/src/observable/types.ts#L10)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **option**: *[KeyringSectionOption](_options_types_.keyringsectionoption.md)*
 
-*Defined in [observable/types.ts:11](https://github.com/polkadot-js/ui/blob/6e4f9df/packages/ui-keyring/src/observable/types.ts#L11)*
+*Defined in [observable/types.ts:11](https://github.com/polkadot-js/ui/blob/1243184/packages/ui-keyring/src/observable/types.ts#L11)*
