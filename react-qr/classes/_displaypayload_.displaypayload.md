@@ -1,4 +1,8 @@
-> # Class: DisplayPayload <**SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["DisplayPayload"](../modules/_displaypayload_.md) › [DisplayPayload](_displaypayload_.displaypayload.md)
+
+# Class: DisplayPayload <**SS**>
 
 ## Type parameters
 
@@ -170,7 +174,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -186,7 +190,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹Props› |
 `prevState` | Readonly‹State› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -328,7 +332,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [DisplayPayload.tsx:41](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayPayload.tsx#L41)*
+*Defined in [DisplayPayload.tsx:41](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayPayload.tsx#L41)*
 
 **Returns:** *React.ReactNode*
 
@@ -367,7 +371,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayPayload.tsx#L30)*
+*Defined in [DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayPayload.tsx#L30)*
 
 **Parameters:**
 
@@ -384,16 +388,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayPayload.tsx:25](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayPayload.tsx#L25)*
+*Defined in [DisplayPayload.tsx:25](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayPayload.tsx#L25)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayPayload.tsx:26](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayPayload.tsx#L26)*
+*Defined in [DisplayPayload.tsx:26](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayPayload.tsx#L26)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayPayload.tsx:27](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayPayload.tsx#L27)*
+*Defined in [DisplayPayload.tsx:27](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayPayload.tsx#L27)*

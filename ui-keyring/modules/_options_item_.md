@@ -1,4 +1,8 @@
-> # External module: "options/item"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["options/item"](_options_item_.md)
+
+# External module: "options/item"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **createItem**(`address`: string, `_name?`: undefined | string, `isUppercase`: boolean): *[KeyringSectionOption](../interfaces/_options_types_.keyringsectionoption.md)*
 
-*Defined in [options/item.tsx:12](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/options/item.tsx#L12)*
+*Defined in [options/item.tsx:12](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/options/item.tsx#L12)*
 
 **Parameters:**
 

@@ -1,4 +1,8 @@
-> # Class: IdentityIcon <**SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["Identicon"](../modules/_identicon_.md) › [IdentityIcon](_identicon_.identityicon.md)
+
+# Class: IdentityIcon <**SS**>
 
 ## Type parameters
 
@@ -171,7 +175,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹State›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹State›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -187,7 +191,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹[Props](../interfaces/_types_.props.md)› |
 `prevState` | Readonly‹State› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -329,7 +333,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [Identicon.tsx:95](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Identicon.tsx#L95)*
+*Defined in [Identicon.tsx:95](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Identicon.tsx#L95)*
 
 **Returns:** *React.ReactNode*
 
@@ -368,7 +372,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [Identicon.tsx:74](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Identicon.tsx#L74)*
+*Defined in [Identicon.tsx:74](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Identicon.tsx#L74)*
 
 **Parameters:**
 
@@ -385,7 +389,7 @@ ___
 
 ▸ **setDefaultPrefix**(`prefix`: Prefix): *void*
 
-*Defined in [Identicon.tsx:70](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Identicon.tsx#L70)*
+*Defined in [Identicon.tsx:70](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Identicon.tsx#L70)*
 
 **Parameters:**
 
@@ -401,16 +405,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [Identicon.tsx:63](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Identicon.tsx#L63)*
+*Defined in [Identicon.tsx:63](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Identicon.tsx#L63)*
 
 ###  address
 
 • **address**: *string* = ""
 
-*Defined in [Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Identicon.tsx#L64)*
+*Defined in [Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Identicon.tsx#L64)*
 
 ###  publicKey
 
 • **publicKey**: *string* = "0x"
 
-*Defined in [Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Identicon.tsx#L65)*
+*Defined in [Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Identicon.tsx#L65)*

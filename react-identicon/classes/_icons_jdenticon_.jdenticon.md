@@ -1,4 +1,8 @@
-> # Class: Jdenticon <**S, SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["icons/Jdenticon"](../modules/_icons_jdenticon_.md) › [Jdenticon](_icons_jdenticon_.jdenticon.md)
+
+# Class: Jdenticon <**S, SS**>
 
 ## Type parameters
 
@@ -167,7 +171,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -183,7 +187,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹[Props](../interfaces/_types_.props.md)› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -325,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Jdenticon.tsx:11](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/icons/Jdenticon.tsx#L11)*
+*Defined in [icons/Jdenticon.tsx:11](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/icons/Jdenticon.tsx#L11)*
 
 **Returns:** *React.ReactNode*
 

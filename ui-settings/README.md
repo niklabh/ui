@@ -1,3 +1,7 @@
+**[Polkadot JS UI libraries](README.md)**
+
+[Globals](globals.md)
+
 # @polkadot/ui-settings
 
 Manages app settings including endpoints, themes and prefixes

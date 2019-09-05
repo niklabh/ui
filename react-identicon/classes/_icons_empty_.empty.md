@@ -1,4 +1,8 @@
-> # Class: Empty <**S, SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["icons/Empty"](../modules/_icons_empty_.md) › [Empty](_icons_empty_.empty.md)
+
+# Class: Empty <**S, SS**>
 
 ## Type parameters
 
@@ -167,7 +171,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -183,7 +187,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹[Props](../interfaces/_types_.props.md)› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -325,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/icons/Empty.tsx#L10)*
 
 **Returns:** *React.ReactNode*
 

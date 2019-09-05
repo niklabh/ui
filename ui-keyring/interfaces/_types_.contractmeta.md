@@ -1,4 +1,8 @@
-> # Interface: ContractMeta
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [ContractMeta](_types_.contractmeta.md)
+
+# Interface: ContractMeta
 
 ## Hierarchy
 
@@ -17,7 +21,7 @@
 
 • **abi**: *string*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/types.ts#L11)*
 
 ___
 
@@ -25,4 +29,4 @@ ___
 
 • **genesisHash**? : *string | null*
 
-*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/types.ts#L12)*
+*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/types.ts#L12)*

@@ -1,4 +1,8 @@
-> # External module: "beachballIcon/svg/svg"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["beachballIcon/svg/svg"](_beachballicon_svg_svg_.md)
+
+# External module: "beachballIcon/svg/svg"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **svg**(`type`: string): *Element*
 
-*Defined in [beachballIcon/svg/svg.ts:8](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-shared/src/beachballIcon/svg/svg.ts#L8)*
+*Defined in [beachballIcon/svg/svg.ts:8](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-shared/src/beachballIcon/svg/svg.ts#L8)*
 
 **Parameters:**
 

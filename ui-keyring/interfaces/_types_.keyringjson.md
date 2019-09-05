@@ -1,4 +1,8 @@
-> # Interface: KeyringJson
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [KeyringJson](_types_.keyringjson.md)
+
+# Interface: KeyringJson
 
 ## Hierarchy
 
@@ -17,7 +21,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:45](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/types.ts#L45)*
+*Defined in [types.ts:45](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/types.ts#L45)*
 
 ___
 
@@ -25,4 +29,4 @@ ___
 
 • **meta**: *[KeyringJson$Meta](_types_.keyringjson_meta.md)*
 
-*Defined in [types.ts:46](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/types.ts#L46)*
+*Defined in [types.ts:46](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/types.ts#L46)*

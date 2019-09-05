@@ -1,4 +1,8 @@
-> # Class: ScanSignature <**S, SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["ScanSignature"](../modules/_scansignature_.md) › [ScanSignature](_scansignature_.scansignature.md)
+
+# Class: ScanSignature <**S, SS**>
 
 ## Type parameters
 
@@ -167,7 +171,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹S›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -183,7 +187,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹Props› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -325,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [ScanSignature.tsx:21](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/ScanSignature.tsx#L21)*
+*Defined in [ScanSignature.tsx:21](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/ScanSignature.tsx#L21)*
 
 **Returns:** *React.ReactNode*
 

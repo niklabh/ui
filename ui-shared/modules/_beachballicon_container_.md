@@ -1,4 +1,8 @@
-> # External module: "beachballIcon/container"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["beachballIcon/container"](_beachballicon_container_.md)
+
+# External module: "beachballIcon/container"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **container**(`diameter`: number, `background`: string, `className`: string, `_style`: object): *HTMLElement*
 
-*Defined in [beachballIcon/container.ts:6](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-shared/src/beachballIcon/container.ts#L6)*
+*Defined in [beachballIcon/container.ts:6](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-shared/src/beachballIcon/container.ts#L6)*
 
 **Parameters:**
 

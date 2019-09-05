@@ -1,4 +1,8 @@
-> # External module: "stores/Extension"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["stores/Extension"](_stores_extension_.md)
+
+# External module: "stores/Extension"
 
 ## Index
 

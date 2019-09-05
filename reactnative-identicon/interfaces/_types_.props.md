@@ -1,4 +1,8 @@
-> # Interface: Props
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [Props](_types_.props.md)
+
+# Interface: Props
 
 ## Hierarchy
 
@@ -18,7 +22,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/129da68/packages/reactnative-identicon/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/753f21b/packages/reactnative-identicon/src/types.ts#L6)*
 
 ___
 
@@ -26,7 +30,7 @@ ___
 
 • **publicKey**: *string*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/129da68/packages/reactnative-identicon/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/753f21b/packages/reactnative-identicon/src/types.ts#L7)*
 
 ___
 
@@ -34,4 +38,4 @@ ___
 
 • **size**: *number*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/129da68/packages/reactnative-identicon/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/753f21b/packages/reactnative-identicon/src/types.ts#L8)*

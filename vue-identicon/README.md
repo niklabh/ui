@@ -1,3 +1,7 @@
+**[Polkadot JS UI libraries](README.md)**
+
+[Globals](globals.md)
+
 # @polkadot/vue-identicon
 
 A generic identity icon that can render icons based on an address.

@@ -1,4 +1,8 @@
-> # External module: "Identicon"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["Identicon"](_identicon_.md)
+
+# External module: "Identicon"
 
 ## Index
 
@@ -62,7 +66,7 @@
   }
 })
 
-*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/129da68/packages/vue-identicon/src/Identicon.ts#L28)*
+*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/753f21b/packages/vue-identicon/src/Identicon.ts#L28)*
 
 **`name`** Identicon
 

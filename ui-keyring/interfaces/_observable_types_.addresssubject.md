@@ -1,4 +1,8 @@
-> # Interface: AddressSubject
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["observable/types"](../modules/_observable_types_.md) › [AddressSubject](_observable_types_.addresssubject.md)
+
+# Interface: AddressSubject
 
 ## Hierarchy
 
@@ -18,7 +22,7 @@
 
 • **add**: *function*
 
-*Defined in [observable/types.ts:19](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/observable/types.ts#L19)*
+*Defined in [observable/types.ts:19](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/observable/types.ts#L19)*
 
 #### Type declaration:
 
@@ -38,7 +42,7 @@ ___
 
 • **remove**: *function*
 
-*Defined in [observable/types.ts:20](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/observable/types.ts#L20)*
+*Defined in [observable/types.ts:20](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/observable/types.ts#L20)*
 
 #### Type declaration:
 
@@ -57,4 +61,4 @@ ___
 
 • **subject**: *BehaviorSubject‹[SubjectInfo](_observable_types_.subjectinfo.md)›*
 
-*Defined in [observable/types.ts:21](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/observable/types.ts#L21)*
+*Defined in [observable/types.ts:21](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/observable/types.ts#L21)*

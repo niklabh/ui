@@ -1,4 +1,8 @@
-> # External module: "icons/Empty"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["icons/Empty"](_icons_empty_.md)
+
+# External module: "icons/Empty"
 
 ## Index
 
@@ -19,7 +23,7 @@
   props: ['size']
 })
 
-*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/129da68/packages/vue-identicon/src/icons/Empty.ts#L11)*
+*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/753f21b/packages/vue-identicon/src/icons/Empty.ts#L11)*
 
 **`name`** Empty
 

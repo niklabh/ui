@@ -1,4 +1,8 @@
-> # External module: "Keyring"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["Keyring"](_keyring_.md)
+
+# External module: "Keyring"
 
 ## Index
 

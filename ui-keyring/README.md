@@ -1,3 +1,7 @@
+**[Polkadot JS UI libraries](README.md)**
+
+[Globals](globals.md)
+
 # @polkadot/ui-keyring
 
 A wrapper extending the base @polkadot/keyring interface for usage in the browser:

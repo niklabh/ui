@@ -1,4 +1,8 @@
-> # Interface: SubjectInfo
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["observable/types"](../modules/_observable_types_.md) › [SubjectInfo](_observable_types_.subjectinfo.md)
+
+# Interface: SubjectInfo
 
 ## Hierarchy
 

@@ -1,4 +1,8 @@
-> # Class: ExtensionStore
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["stores/Extension"](../modules/_stores_extension_.md) › [ExtensionStore](_stores_extension_.extensionstore.md)
+
+# Class: ExtensionStore
 
 ## Hierarchy
 
@@ -23,7 +27,7 @@
 
 ▸ **all**(`cb`: function): *void*
 
-*Defined in [stores/Extension.ts:21](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/stores/Extension.ts#L21)*
+*Defined in [stores/Extension.ts:21](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/stores/Extension.ts#L21)*
 
 **Parameters:**
 
@@ -46,7 +50,7 @@ ___
 
 ▸ **get**(`key`: string, `cb`: function): *void*
 
-*Defined in [stores/Extension.ts:32](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/stores/Extension.ts#L32)*
+*Defined in [stores/Extension.ts:32](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/stores/Extension.ts#L32)*
 
 **Parameters:**
 
@@ -70,7 +74,7 @@ ___
 
 ▸ **remove**(`key`: string, `cb?`: undefined | function): *void*
 
-*Defined in [stores/Extension.ts:40](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/stores/Extension.ts#L40)*
+*Defined in [stores/Extension.ts:40](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/stores/Extension.ts#L40)*
 
 **Parameters:**
 
@@ -87,7 +91,7 @@ ___
 
 ▸ **set**(`key`: string, `value`: [KeyringJson](../interfaces/_types_.keyringjson.md), `cb?`: undefined | function): *void*
 
-*Defined in [stores/Extension.ts:48](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/stores/Extension.ts#L48)*
+*Defined in [stores/Extension.ts:48](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/stores/Extension.ts#L48)*
 
 **Parameters:**
 

@@ -1,4 +1,8 @@
-> # Class: KeyPair <**S, SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["options/KeyPair"](../modules/_options_keypair_.md) › [KeyPair](_options_keypair_.keypair.md)
+
+# Class: KeyPair <**S, SS**>
 
 ## Type parameters
 
@@ -167,7 +171,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹S›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -183,7 +187,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹Props› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -325,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [options/KeyPair.tsx:55](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-keyring/src/options/KeyPair.tsx#L55)*
+*Defined in [options/KeyPair.tsx:55](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-keyring/src/options/KeyPair.tsx#L55)*
 
 **Returns:** *React.ReactNode*
 

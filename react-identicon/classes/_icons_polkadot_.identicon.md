@@ -1,4 +1,8 @@
-> # Class: Identicon <**S, SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["icons/Polkadot"](../modules/_icons_polkadot_.md) › [Identicon](_icons_polkadot_.identicon.md)
+
+# Class: Identicon <**S, SS**>
 
 ## Type parameters
 
@@ -167,7 +171,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹S›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -183,7 +187,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹Props› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -325,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/icons/Polkadot.tsx#L29)*
+*Defined in [icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/icons/Polkadot.tsx#L29)*
 
 **Returns:** *React.ReactNode*
 

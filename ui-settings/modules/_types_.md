@@ -1,4 +1,8 @@
-> # External module: "types"
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["types"](_types_.md)
+
+# External module: "types"
 
 ## Index
 
@@ -16,4 +20,4 @@
 
 Ƭ **Options**: *object[]*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-settings/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-settings/src/types.ts#L5)*

@@ -1,4 +1,8 @@
-> # Class: DisplayExtrinsic <**SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["DisplayAddress"](../modules/_displayaddress_.md) › [DisplayExtrinsic](_displayaddress_.displayextrinsic.md)
+
+# Class: DisplayExtrinsic <**SS**>
 
 ## Type parameters
 
@@ -170,7 +174,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -186,7 +190,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹Props› |
 `prevState` | Readonly‹State› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -328,7 +332,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayAddress.tsx#L40)*
+*Defined in [DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayAddress.tsx#L40)*
 
 **Returns:** *React.ReactNode*
 
@@ -367,7 +371,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayAddress.tsx#L29)*
+*Defined in [DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayAddress.tsx#L29)*
 
 **Parameters:**
 
@@ -384,16 +388,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayAddress.tsx#L24)*
+*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayAddress.tsx#L24)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayAddress.tsx#L25)*
+*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayAddress.tsx#L25)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/129da68/packages/react-qr/src/DisplayAddress.tsx#L26)*
+*Defined in [DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-qr/src/DisplayAddress.tsx#L26)*

@@ -1,4 +1,8 @@
-> # Class: Demo <**P, S, SS**>
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["Demo"](../modules/_demo_.md) › [Demo](_demo_.demo.md)
+
+# Class: Demo <**P, S, SS**>
 
 ## Type parameters
 
@@ -169,7 +173,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹P›, `prevState`: Readonly‹S›, `snapshot?`: [SS]()): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹P›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
 
 *Inherited from void*
 
@@ -185,7 +189,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹P› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS]() |
+`snapshot?` | [SS](undefined) |
 
 **Returns:** *void*
 
@@ -327,7 +331,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [Demo.tsx:12](https://github.com/polkadot-js/ui/blob/129da68/packages/react-identicon/src/Demo.tsx#L12)*
+*Defined in [Demo.tsx:12](https://github.com/polkadot-js/ui/blob/753f21b/packages/react-identicon/src/Demo.tsx#L12)*
 
 **Returns:** *React.ReactNode*
 

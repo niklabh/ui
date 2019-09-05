@@ -1,4 +1,8 @@
-> # Interface: Circle
+**[Polkadot JS UI libraries](../README.md)**
+
+[Globals](../globals.md) › ["polkadotIcon"](../modules/_polkadoticon_.md) › [Circle](_polkadoticon_.circle.md)
+
+# Interface: Circle
 
 ## Hierarchy
 
@@ -19,7 +23,7 @@
 
 • **cx**: *number*
 
-*Defined in [polkadotIcon.ts:13](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-shared/src/polkadotIcon.ts#L13)*
+*Defined in [polkadotIcon.ts:13](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-shared/src/polkadotIcon.ts#L13)*
 
 ___
 
@@ -27,7 +31,7 @@ ___
 
 • **cy**: *number*
 
-*Defined in [polkadotIcon.ts:14](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-shared/src/polkadotIcon.ts#L14)*
+*Defined in [polkadotIcon.ts:14](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-shared/src/polkadotIcon.ts#L14)*
 
 ___
 
@@ -35,7 +39,7 @@ ___
 
 • **fill**: *string*
 
-*Defined in [polkadotIcon.ts:15](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-shared/src/polkadotIcon.ts#L15)*
+*Defined in [polkadotIcon.ts:15](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-shared/src/polkadotIcon.ts#L15)*
 
 ___
 
@@ -43,4 +47,4 @@ ___
 
 • **r**: *number*
 
-*Defined in [polkadotIcon.ts:16](https://github.com/polkadot-js/ui/blob/129da68/packages/ui-shared/src/polkadotIcon.ts#L16)*
+*Defined in [polkadotIcon.ts:16](https://github.com/polkadot-js/ui/blob/753f21b/packages/ui-shared/src/polkadotIcon.ts#L16)*
