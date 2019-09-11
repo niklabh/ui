@@ -1,5 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["index"](_index_.md)
+[Globals](../globals.md) › [&quot;index&quot;](_index_.md)
 
 # External module: "index"
+

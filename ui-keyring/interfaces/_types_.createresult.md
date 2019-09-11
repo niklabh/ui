@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["types"](../modules/_types_.md) › [CreateResult](_types_.createresult.md)
+[Globals](../globals.md) › [&quot;types&quot;](../modules/_types_.md) › [CreateResult](_types_.createresult.md)
 
 # Interface: CreateResult
 
@@ -21,7 +21,7 @@
 
 • **json**: *KeyringPair$Json*
 
-*Defined in [types.ts:60](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/types.ts#L60)*
+*Defined in [types.ts:60](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/types.ts#L60)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **pair**: *KeyringPair*
 
-*Defined in [types.ts:61](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/types.ts#L61)*
+*Defined in [types.ts:61](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/types.ts#L61)*

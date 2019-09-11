@@ -2,6 +2,8 @@
 
 [Globals](globals.md)
 
+# Polkadot JS UI libraries
+
 # @polkadot/reactnative-identicon
 
 A generic identity icon that can render icons based on an address.

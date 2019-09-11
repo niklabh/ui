@@ -2,6 +2,8 @@
 
 [Globals](globals.md)
 
+# Polkadot JS UI libraries
+
 # @polkadot/ui-shared/beachball
 
 Adapted from [Jazzicon](https://github.com/danfinlay/jazzicon) by Dan Finlay with the following changes -

@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["options/KeyPair"](../modules/_options_keypair_.md) › [KeyPair](_options_keypair_.keypair.md)
+[Globals](../globals.md) › [&quot;options/KeyPair&quot;](../modules/_options_keypair_.md) › [KeyPair](_options_keypair_.keypair.md)
 
 # Class: KeyPair <**S, SS**>
 
@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [options/KeyPair.tsx:55](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/KeyPair.tsx#L55)*
+*Defined in [options/KeyPair.tsx:55](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/KeyPair.tsx#L55)*
 
 **Returns:** *React.ReactNode*
 

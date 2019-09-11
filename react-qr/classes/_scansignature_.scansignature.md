@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["ScanSignature"](../modules/_scansignature_.md) › [ScanSignature](_scansignature_.scansignature.md)
+[Globals](../globals.md) › [&quot;ScanSignature&quot;](../modules/_scansignature_.md) › [ScanSignature](_scansignature_.scansignature.md)
 
 # Class: ScanSignature <**S, SS**>
 
@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [ScanSignature.tsx:21](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-qr/src/ScanSignature.tsx#L21)*
+*Defined in [ScanSignature.tsx:21](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-qr/src/ScanSignature.tsx#L21)*
 
 **Returns:** *React.ReactNode*
 

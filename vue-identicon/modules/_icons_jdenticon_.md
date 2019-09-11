@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["icons/Jdenticon"](_icons_jdenticon_.md)
+[Globals](../globals.md) › [&quot;icons/Jdenticon&quot;](_icons_jdenticon_.md)
 
 # External module: "icons/Jdenticon"
 
@@ -34,7 +34,7 @@
   }
 })
 
-*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 

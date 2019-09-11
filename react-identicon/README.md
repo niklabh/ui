@@ -2,6 +2,8 @@
 
 [Globals](globals.md)
 
+# Polkadot JS UI libraries
+
 # @polkadot/react-identicon
 
 A generic identity icon that can render icons based on the theme, be it Substrate or Polkadot

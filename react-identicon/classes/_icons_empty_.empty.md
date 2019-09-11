@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["icons/Empty"](../modules/_icons_empty_.md) › [Empty](_icons_empty_.empty.md)
+[Globals](../globals.md) › [&quot;icons/Empty&quot;](../modules/_icons_empty_.md) › [Empty](_icons_empty_.empty.md)
 
 # Class: Empty <**S, SS**>
 
@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-identicon/src/icons/Empty.tsx#L10)*
 
 **Returns:** *React.ReactNode*
 

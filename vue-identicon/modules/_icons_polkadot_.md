@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["icons/Polkadot"](_icons_polkadot_.md)
+[Globals](../globals.md) › [&quot;icons/Polkadot&quot;](_icons_polkadot_.md)
 
 # External module: "icons/Polkadot"
 
@@ -38,7 +38,7 @@
   }
 })
 
-*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
+*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
 
 **`name`** Polkadot
 

@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["DisplayAddress"](_displayaddress_.md)
+[Globals](../globals.md) › [&quot;DisplayAddress&quot;](_displayaddress_.md)
 
 # External module: "DisplayAddress"
 

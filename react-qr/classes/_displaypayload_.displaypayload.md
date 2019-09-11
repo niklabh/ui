@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["DisplayPayload"](../modules/_displaypayload_.md) › [DisplayPayload](_displaypayload_.displaypayload.md)
+[Globals](../globals.md) › [&quot;DisplayPayload&quot;](../modules/_displaypayload_.md) › [DisplayPayload](_displaypayload_.displaypayload.md)
 
 # Class: DisplayPayload <**SS**>
 
@@ -332,7 +332,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [DisplayPayload.tsx:41](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-qr/src/DisplayPayload.tsx#L41)*
+*Defined in [DisplayPayload.tsx:41](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-qr/src/DisplayPayload.tsx#L41)*
 
 **Returns:** *React.ReactNode*
 
@@ -371,7 +371,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-qr/src/DisplayPayload.tsx#L30)*
+*Defined in [DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-qr/src/DisplayPayload.tsx#L30)*
 
 **Parameters:**
 
@@ -388,16 +388,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayPayload.tsx:25](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-qr/src/DisplayPayload.tsx#L25)*
+*Defined in [DisplayPayload.tsx:25](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-qr/src/DisplayPayload.tsx#L25)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayPayload.tsx:26](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-qr/src/DisplayPayload.tsx#L26)*
+*Defined in [DisplayPayload.tsx:26](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-qr/src/DisplayPayload.tsx#L26)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayPayload.tsx:27](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/react-qr/src/DisplayPayload.tsx#L27)*
+*Defined in [DisplayPayload.tsx:27](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/react-qr/src/DisplayPayload.tsx#L27)*

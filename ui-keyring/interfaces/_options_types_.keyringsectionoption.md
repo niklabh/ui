@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["options/types"](../modules/_options_types_.md) › [KeyringSectionOption](_options_types_.keyringsectionoption.md)
+[Globals](../globals.md) › [&quot;options/types&quot;](../modules/_options_types_.md) › [KeyringSectionOption](_options_types_.keyringsectionoption.md)
 
 # Interface: KeyringSectionOption
 
@@ -26,7 +26,7 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [options/types.ts:10](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L10)*
+*Defined in [options/types.ts:10](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L10)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **content**? : *React.ReactNode*
 
-*Defined in [options/types.ts:12](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L12)*
+*Defined in [options/types.ts:12](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L12)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **disabled**? : *undefined | false | true*
 
-*Defined in [options/types.ts:11](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L11)*
+*Defined in [options/types.ts:11](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L11)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **key**: *string | null*
 
-*Defined in [options/types.ts:13](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L13)*
+*Defined in [options/types.ts:13](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L13)*
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [options/types.ts:14](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L14)*
+*Defined in [options/types.ts:14](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L14)*
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 • **text**: *React.ReactNode*
 
-*Defined in [options/types.ts:15](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L15)*
+*Defined in [options/types.ts:15](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L15)*
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 • **value**: *string | null*
 
-*Defined in [options/types.ts:16](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/ui-keyring/src/options/types.ts#L16)*
+*Defined in [options/types.ts:16](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/types.ts#L16)*

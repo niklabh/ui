@@ -1,6 +1,6 @@
 **[Polkadot JS UI libraries](../README.md)**
 
-[Globals](../globals.md) › ["icons/Polkadot"](../modules/_icons_polkadot_.md) › [Identicon](_icons_polkadot_.identicon.md)
+[Globals](../globals.md) › [&quot;icons/Polkadot&quot;](../modules/_icons_polkadot_.md) › [Identicon](_icons_polkadot_.identicon.md)
 
 # Class: Identicon <**S, SS**>
 
@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Polkadot.tsx:17](https://github.com/polkadot-js/ui/blob/92ea8b1/packages/reactnative-identicon/src/icons/Polkadot.tsx#L17)*
+*Defined in [icons/Polkadot.tsx:17](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/reactnative-identicon/src/icons/Polkadot.tsx#L17)*
 
 **Returns:** *React.ReactNode*
 
