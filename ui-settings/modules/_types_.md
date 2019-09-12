@@ -12,12 +12,14 @@
 
 ### Type aliases
 
-* [Options](_types_.md#options)
+* [Option](_types_.md#option)
 
 ## Type aliases
 
-###  Options
+###  Option
 
-Ƭ **Options**: *object[]*
+Ƭ **Option**: *object*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/64cae00/packages/ui-settings/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/c31e508/packages/ui-settings/src/types.ts#L5)*
+
+#### Type declaration:
