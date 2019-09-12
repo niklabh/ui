@@ -18,6 +18,7 @@
 * [filter](_types_.keyringoptions.md#optional-filter)
 * [genesisHash](_types_.keyringoptions.md#optional-genesishash)
 * [isDevelopment](_types_.keyringoptions.md#optional-isdevelopment)
+* [ss58Format](_types_.keyringoptions.md#optional-ss58format)
 * [store](_types_.keyringoptions.md#optional-store)
 * [type](_types_.keyringoptions.md#optional-type)
 
@@ -37,7 +38,7 @@ ___
 
 • **filter**? : *undefined | function*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/ui/blob/64cae00/packages/ui-keyring/src/types.ts#L23)*
 
 ___
 
@@ -45,7 +46,7 @@ ___
 
 • **genesisHash**? : *Hash*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/ui/blob/64cae00/packages/ui-keyring/src/types.ts#L24)*
 
 ___
 
@@ -53,7 +54,17 @@ ___
 
 • **isDevelopment**? : *undefined | false | true*
 
-*Defined in [types.ts:25](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/types.ts#L25)*
+*Defined in [types.ts:25](https://github.com/polkadot-js/ui/blob/64cae00/packages/ui-keyring/src/types.ts#L25)*
+
+___
+
+### `Optional` ss58Format
+
+• **ss58Format**? : *Prefix*
+
+*Inherited from void*
+
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@polkadot/keyring/types.d.ts:5
 
 ___
 
@@ -61,7 +72,7 @@ ___
 
 • **store**? : *[KeyringStore](_types_.keyringstore.md)*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/ui/blob/64cae00/packages/ui-keyring/src/types.ts#L26)*
 
 ___
 
@@ -71,4 +82,4 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@polkadot/keyring/types.d.ts:5
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@polkadot/keyring/types.d.ts:6

@@ -16,7 +16,7 @@
 
 ▸ **createItem**(`address`: string, `_name?`: undefined | string, `isUppercase`: boolean): *[KeyringSectionOption](../interfaces/_options_types_.keyringsectionoption.md)*
 
-*Defined in [options/item.tsx:12](https://github.com/polkadot-js/ui/blob/b3ff3b3/packages/ui-keyring/src/options/item.tsx#L12)*
+*Defined in [options/item.tsx:12](https://github.com/polkadot-js/ui/blob/64cae00/packages/ui-keyring/src/options/item.tsx#L12)*
 
 **Parameters:**
 
