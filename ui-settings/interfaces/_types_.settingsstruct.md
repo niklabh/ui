@@ -18,6 +18,7 @@
 
 * [apiUrl](_types_.settingsstruct.md#apiurl)
 * [i18nLang](_types_.settingsstruct.md#i18nlang)
+* [icon](_types_.settingsstruct.md#icon)
 * [locking](_types_.settingsstruct.md#locking)
 * [prefix](_types_.settingsstruct.md#prefix)
 * [uiMode](_types_.settingsstruct.md#uimode)
@@ -29,7 +30,7 @@
 
 • **apiUrl**: *string*
 
-*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/435cf90/packages/ui-settings/src/types.ts#L13)*
+*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L13)*
 
 ___
 
@@ -37,7 +38,15 @@ ___
 
 • **i18nLang**: *string*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/435cf90/packages/ui-settings/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L14)*
+
+___
+
+###  icon
+
+• **icon**: *string*
+
+*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L15)*
 
 ___
 
@@ -45,7 +54,7 @@ ___
 
 • **locking**: *string*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/435cf90/packages/ui-settings/src/types.ts#L15)*
+*Defined in [types.ts:16](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L16)*
 
 ___
 
@@ -53,7 +62,7 @@ ___
 
 • **prefix**: *number*
 
-*Defined in [types.ts:16](https://github.com/polkadot-js/ui/blob/435cf90/packages/ui-settings/src/types.ts#L16)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L17)*
 
 ___
 
@@ -61,7 +70,7 @@ ___
 
 • **uiMode**: *string*
 
-*Defined in [types.ts:17](https://github.com/polkadot-js/ui/blob/435cf90/packages/ui-settings/src/types.ts#L17)*
+*Defined in [types.ts:18](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L18)*
 
 ___
 
@@ -69,4 +78,4 @@ ___
 
 • **uiTheme**: *string*
 
-*Defined in [types.ts:18](https://github.com/polkadot-js/ui/blob/435cf90/packages/ui-settings/src/types.ts#L18)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-settings/src/types.ts#L19)*

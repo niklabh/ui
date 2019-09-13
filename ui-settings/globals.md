@@ -13,4 +13,5 @@
 * ["defaults/endpoints"](modules/_defaults_endpoints_.md)
 * ["defaults/ss58"](modules/_defaults_ss58_.md)
 * ["defaults/type"](modules/_defaults_type_.md)
+* ["defaults/ui"](modules/_defaults_ui_.md)
 * ["types"](modules/_types_.md)
