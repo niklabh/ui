@@ -32,7 +32,7 @@
 
 • **contract**? : *[ContractMeta](_types_.contractmeta.md)*
 
-*Defined in [types.ts:31](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L31)*
+*Defined in [types.ts:31](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L31)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • **genesisHash**? : *string | null*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L32)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • **isInjected**? : *undefined | false | true*
 
-*Defined in [types.ts:33](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L33)*
+*Defined in [types.ts:33](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L33)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • **isRecent**? : *undefined | false | true*
 
-*Defined in [types.ts:34](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L34)*
+*Defined in [types.ts:34](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L34)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • **isTesting**? : *undefined | false | true*
 
-*Defined in [types.ts:35](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L35)*
+*Defined in [types.ts:35](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L35)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • **name**? : *undefined | string*
 
-*Defined in [types.ts:36](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L36)*
+*Defined in [types.ts:36](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L36)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • **whenCreated**? : *undefined | number*
 
-*Defined in [types.ts:37](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L37)*
+*Defined in [types.ts:37](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L37)*
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 • **whenEdited**? : *undefined | number*
 
-*Defined in [types.ts:38](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L38)*
+*Defined in [types.ts:38](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L38)*
 
 ___
 
@@ -96,4 +96,4 @@ ___
 
 • **whenUsed**? : *undefined | number*
 
-*Defined in [types.ts:39](https://github.com/polkadot-js/ui/blob/3f253dd/packages/ui-keyring/src/types.ts#L39)*
+*Defined in [types.ts:39](https://github.com/polkadot-js/ui/blob/d0ef98b/packages/ui-keyring/src/types.ts#L39)*
