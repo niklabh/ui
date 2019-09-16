@@ -17,7 +17,6 @@
 * ["observable/development"](modules/_observable_development_.md)
 * ["observable/genericSubject"](modules/_observable_genericsubject_.md)
 * ["observable/types"](modules/_observable_types_.md)
-* ["options/KeyPair"](modules/_options_keypair_.md)
 * ["options/item"](modules/_options_item_.md)
 * ["options/types"](modules/_options_types_.md)
 * ["stores/Browser"](modules/_stores_browser_.md)

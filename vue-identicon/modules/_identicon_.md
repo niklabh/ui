@@ -19,16 +19,16 @@
   // here so we don't create a div wrapped for the div wrapper of the icon
   template: `
     <div v-if="type === 'empty' || address === ''">
-      <Empty :size="iconSize" />
+      <Empty :key="address" :size="iconSize" />
     </div>
     <div v-else-if="type === 'beachball'">
-      <Beachball :address="address" :size="iconSize" />
+      <Beachball :key="address" :address="address" :size="iconSize" />
     </div>
     <div v-else-if="type === 'polkadot'">
-      <Polkadot :address="address" :size="iconSize" />
+      <Polkadot :key="address"  :address="address" :size="iconSize" />
     </div>
     <div v-else>
-      <Jdenticon :publicKey="publicKey" :size="iconSize" />
+      <Jdenticon :key="address" :publicKey="publicKey" :size="iconSize" />
     </div>
   `,
   props: ['prefix', 'size', 'theme', 'value'],
@@ -52,21 +52,25 @@
   methods: {
     createData: function (): void {
       this.iconSize = this.size || DEFAULT_SIZE;
+      this.type = this.theme;
 
-      try {
-        this.address = isU8a(this.value) || isHex(this.value)
-          ? encodeAddress(this.value as string, this.prefix)
-          : this.value;
-        this.publicKey = u8aToHex(decodeAddress(this.address, false, this.prefix));
-        this.type = this.theme;
-      } catch (error) {
-        this.address = '';
-      }
+      this.recodeAddress();
+    },
+    recodeAddress: function (): void {
+      const { address, publicKey } = encodeAccount(this.value);
+
+      this.address = address;
+      this.publicKey = publicKey;
+    }
+  },
+  watch: {
+    value: function (): void {
+      this.recodeAddress();
     }
   }
 })
 
-*Defined in [Identicon.ts:28](https://github.com/polkadot-js/ui/blob/f95112f/packages/vue-identicon/src/Identicon.ts#L28)*
+*Defined in [Identicon.ts:48](https://github.com/polkadot-js/ui/blob/e87647e/packages/vue-identicon/src/Identicon.ts#L48)*
 
 **`name`** Identicon
 

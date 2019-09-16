@@ -23,7 +23,7 @@
 
 Ƭ **KeyringOption$Type**: *keyof KeyringOptions*
 
-*Defined in [options/types.ts:25](https://github.com/polkadot-js/ui/blob/f95112f/packages/ui-keyring/src/options/types.ts#L25)*
+*Defined in [options/types.ts:21](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-keyring/src/options/types.ts#L21)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 Ƭ **KeyringOptions**: *object*
 
-*Defined in [options/types.ts:21](https://github.com/polkadot-js/ui/blob/f95112f/packages/ui-keyring/src/options/types.ts#L21)*
+*Defined in [options/types.ts:17](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-keyring/src/options/types.ts#L17)*
 
 #### Type declaration:
 
@@ -41,4 +41,4 @@ ___
 
 Ƭ **KeyringSectionOptions**: *[KeyringSectionOption](../interfaces/_options_types_.keyringsectionoption.md)[]*
 
-*Defined in [options/types.ts:19](https://github.com/polkadot-js/ui/blob/f95112f/packages/ui-keyring/src/options/types.ts#L19)*
+*Defined in [options/types.ts:15](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-keyring/src/options/types.ts#L15)*

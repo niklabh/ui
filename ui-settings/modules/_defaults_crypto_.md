@@ -27,4 +27,4 @@
   }
 ]
 
-*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/f95112f/packages/ui-settings/src/defaults/crypto.ts#L7)*
+*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/defaults/crypto.ts#L7)*
