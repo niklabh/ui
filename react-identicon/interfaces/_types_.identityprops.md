@@ -31,7 +31,7 @@
 
 *Inherited from [BaseProps](_types_.baseprops.md).[className](_types_.baseprops.md#optional-classname)*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L8)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **isHighlight**? : *undefined | false | true*
 
-*Defined in [types.ts:19](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L19)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L19)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **onCopy**? : *undefined | function*
 
-*Defined in [types.ts:20](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L20)*
+*Defined in [types.ts:20](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L20)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **prefix**? : *Prefix*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L21)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **size**? : *undefined | number*
 
-*Defined in [types.ts:22](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L22)*
+*Defined in [types.ts:22](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L22)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 *Inherited from [BaseProps](_types_.baseprops.md).[style](_types_.baseprops.md#optional-style)*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L9)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **theme**? : *"beachball" | "empty" | "jdenticon" | "polkadot" | "substrate"*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L23)*
 
 ___
 
@@ -89,4 +89,4 @@ ___
 
 • **value**? : *string | Uint8Array | null*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/ui/blob/e87647e/packages/react-identicon/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/ui/blob/800700d/packages/react-identicon/src/types.ts#L24)*

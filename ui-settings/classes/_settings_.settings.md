@@ -24,6 +24,7 @@
 * [availableCryptos](_settings_.settings.md#availablecryptos)
 * [availableIcons](_settings_.settings.md#availableicons)
 * [availableLanguages](_settings_.settings.md#availablelanguages)
+* [availableLedgerConn](_settings_.settings.md#availableledgerconn)
 * [availableLocking](_settings_.settings.md#availablelocking)
 * [availableNodes](_settings_.settings.md#availablenodes)
 * [availablePrefixes](_settings_.settings.md#availableprefixes)
@@ -31,6 +32,7 @@
 * [availableUIThemes](_settings_.settings.md#availableuithemes)
 * [i18nLang](_settings_.settings.md#i18nlang)
 * [icon](_settings_.settings.md#icon)
+* [ledgerConn](_settings_.settings.md#ledgerconn)
 * [locking](_settings_.settings.md#locking)
 * [prefix](_settings_.settings.md#prefix)
 * [uiMode](_settings_.settings.md#uimode)
@@ -47,7 +49,7 @@
 
 \+ **new Settings**(): *[Settings](_settings_.settings.md)*
 
-*Defined in [Settings.ts:24](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L24)*
+*Defined in [Settings.ts:26](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L26)*
 
 **Returns:** *[Settings](_settings_.settings.md)*
 
@@ -57,7 +59,7 @@
 
 • **get apiUrl**(): *string*
 
-*Defined in [Settings.ts:38](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L38)*
+*Defined in [Settings.ts:41](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L41)*
 
 **Returns:** *string*
 
@@ -67,7 +69,7 @@ ___
 
 • **get availableCryptos**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:66](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L66)*
+*Defined in [Settings.ts:73](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L73)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -77,7 +79,7 @@ ___
 
 • **get availableIcons**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:70](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L70)*
+*Defined in [Settings.ts:77](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L77)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -87,7 +89,17 @@ ___
 
 • **get availableLanguages**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:74](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L74)*
+*Defined in [Settings.ts:81](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L81)*
+
+**Returns:** *[Option](../modules/_types_.md#option)[]*
+
+___
+
+###  availableLedgerConn
+
+• **get availableLedgerConn**(): *[Option](../modules/_types_.md#option)[]*
+
+*Defined in [Settings.ts:85](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L85)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -97,7 +109,7 @@ ___
 
 • **get availableLocking**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:78](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L78)*
+*Defined in [Settings.ts:89](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L89)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -107,7 +119,7 @@ ___
 
 • **get availableNodes**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:82](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L82)*
+*Defined in [Settings.ts:93](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L93)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -117,7 +129,7 @@ ___
 
 • **get availablePrefixes**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:86](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L86)*
+*Defined in [Settings.ts:97](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L97)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -127,7 +139,7 @@ ___
 
 • **get availableUIModes**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:90](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L90)*
+*Defined in [Settings.ts:101](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L101)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -137,7 +149,7 @@ ___
 
 • **get availableUIThemes**(): *[Option](../modules/_types_.md#option)[]*
 
-*Defined in [Settings.ts:94](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L94)*
+*Defined in [Settings.ts:105](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L105)*
 
 **Returns:** *[Option](../modules/_types_.md#option)[]*
 
@@ -147,7 +159,7 @@ ___
 
 • **get i18nLang**(): *string*
 
-*Defined in [Settings.ts:42](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L42)*
+*Defined in [Settings.ts:45](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L45)*
 
 **Returns:** *string*
 
@@ -157,7 +169,17 @@ ___
 
 • **get icon**(): *string*
 
-*Defined in [Settings.ts:46](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L46)*
+*Defined in [Settings.ts:49](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L49)*
+
+**Returns:** *string*
+
+___
+
+###  ledgerConn
+
+• **get ledgerConn**(): *string*
+
+*Defined in [Settings.ts:53](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L53)*
 
 **Returns:** *string*
 
@@ -167,7 +189,7 @@ ___
 
 • **get locking**(): *string*
 
-*Defined in [Settings.ts:50](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L50)*
+*Defined in [Settings.ts:57](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L57)*
 
 **Returns:** *string*
 
@@ -177,7 +199,7 @@ ___
 
 • **get prefix**(): *number*
 
-*Defined in [Settings.ts:54](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L54)*
+*Defined in [Settings.ts:61](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L61)*
 
 **Returns:** *number*
 
@@ -187,7 +209,7 @@ ___
 
 • **get uiMode**(): *string*
 
-*Defined in [Settings.ts:58](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L58)*
+*Defined in [Settings.ts:65](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L65)*
 
 **Returns:** *string*
 
@@ -197,7 +219,7 @@ ___
 
 • **get uiTheme**(): *string*
 
-*Defined in [Settings.ts:62](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L62)*
+*Defined in [Settings.ts:69](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L69)*
 
 **Returns:** *string*
 
@@ -207,7 +229,7 @@ ___
 
 ▸ **get**(): *[SettingsStruct](../interfaces/_types_.settingsstruct.md)*
 
-*Defined in [Settings.ts:98](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L98)*
+*Defined in [Settings.ts:109](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L109)*
 
 **Returns:** *[SettingsStruct](../interfaces/_types_.settingsstruct.md)*
 
@@ -217,7 +239,7 @@ ___
 
 ▸ **set**(`settings`: Partial‹[SettingsStruct](../interfaces/_types_.settingsstruct.md)›): *void*
 
-*Defined in [Settings.ts:110](https://github.com/polkadot-js/ui/blob/e87647e/packages/ui-settings/src/Settings.ts#L110)*
+*Defined in [Settings.ts:122](https://github.com/polkadot-js/ui/blob/800700d/packages/ui-settings/src/Settings.ts#L122)*
 
 **Parameters:**
 

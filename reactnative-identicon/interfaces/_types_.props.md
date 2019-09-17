@@ -22,7 +22,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/e87647e/packages/reactnative-identicon/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/800700d/packages/reactnative-identicon/src/types.ts#L6)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **publicKey**: *string*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/e87647e/packages/reactnative-identicon/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/800700d/packages/reactnative-identicon/src/types.ts#L7)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **size**: *number*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/e87647e/packages/reactnative-identicon/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/800700d/packages/reactnative-identicon/src/types.ts#L8)*
