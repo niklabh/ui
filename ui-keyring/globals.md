@@ -11,6 +11,7 @@
 * ["Base"](modules/_base_.md)
 * ["Keyring"](modules/_keyring_.md)
 * ["defaults"](modules/_defaults_.md)
+* ["ledger"](modules/_ledger_.md)
 * ["observable/accounts"](modules/_observable_accounts_.md)
 * ["observable/addresses"](modules/_observable_addresses_.md)
 * ["observable/contracts"](modules/_observable_contracts_.md)
