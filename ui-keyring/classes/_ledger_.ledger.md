@@ -26,7 +26,7 @@
 
 \+ **new Ledger**(`type`: [LedgerTypes](../modules/_ledger_.md#ledgertypes)): *[Ledger](_ledger_.ledger.md)*
 
-*Defined in [ledger.ts:43](https://github.com/polkadot-js/ui/blob/0175ef6/packages/ui-keyring/src/ledger.ts#L43)*
+*Defined in [ledger.ts:43](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-keyring/src/ledger.ts#L43)*
 
 **Parameters:**
 
@@ -42,7 +42,7 @@ Name | Type |
 
 ▸ **getAddress**(`confirm`: boolean, `account`: number, `change`: number, `addressIndex`: number): *Promise‹[LedgerAddress](../interfaces/_ledger_.ledgeraddress.md)›*
 
-*Defined in [ledger.ts:93](https://github.com/polkadot-js/ui/blob/0175ef6/packages/ui-keyring/src/ledger.ts#L93)*
+*Defined in [ledger.ts:93](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-keyring/src/ledger.ts#L93)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **getVersion**(): *Promise‹[LedgerVersion](../interfaces/_ledger_.ledgerversion.md)›*
 
-*Defined in [ledger.ts:104](https://github.com/polkadot-js/ui/blob/0175ef6/packages/ui-keyring/src/ledger.ts#L104)*
+*Defined in [ledger.ts:104](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-keyring/src/ledger.ts#L104)*
 
 **Returns:** *Promise‹[LedgerVersion](../interfaces/_ledger_.ledgerversion.md)›*
 
@@ -71,7 +71,7 @@ ___
 
 ▸ **sign**(`message`: Uint8Array, `account`: number, `change`: number, `addressIndex`: number): *Promise‹[LedgerSignature](../interfaces/_ledger_.ledgersignature.md)›*
 
-*Defined in [ledger.ts:116](https://github.com/polkadot-js/ui/blob/0175ef6/packages/ui-keyring/src/ledger.ts#L116)*
+*Defined in [ledger.ts:116](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-keyring/src/ledger.ts#L116)*
 
 **Parameters:**
 

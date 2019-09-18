@@ -16,7 +16,7 @@
 
 ▸ **square**(`seeder`: [Seeder](_beachballicon_types_.md#seeder), `fill`: string, `diameter`: number, `count`: number): *Element*
 
-*Defined in [beachballIcon/shape/square.ts:11](https://github.com/polkadot-js/ui/blob/0175ef6/packages/ui-shared/src/beachballIcon/shape/square.ts#L11)*
+*Defined in [beachballIcon/shape/square.ts:11](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-shared/src/beachballIcon/shape/square.ts#L11)*
 
 **Parameters:**
 
