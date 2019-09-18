@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Empty.tsx:12](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/reactnative-identicon/src/icons/Empty.tsx#L12)*
+*Defined in [icons/Empty.tsx:12](https://github.com/polkadot-js/ui/blob/337f377/packages/reactnative-identicon/src/icons/Empty.tsx#L12)*
 
 **Returns:** *React.ReactNode*
 

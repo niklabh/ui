@@ -23,7 +23,7 @@
 
 • **cx**: *number*
 
-*Defined in [polkadotIcon.ts:13](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-shared/src/polkadotIcon.ts#L13)*
+*Defined in [polkadotIcon.ts:13](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/polkadotIcon.ts#L13)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **cy**: *number*
 
-*Defined in [polkadotIcon.ts:14](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-shared/src/polkadotIcon.ts#L14)*
+*Defined in [polkadotIcon.ts:14](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/polkadotIcon.ts#L14)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **fill**: *string*
 
-*Defined in [polkadotIcon.ts:15](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-shared/src/polkadotIcon.ts#L15)*
+*Defined in [polkadotIcon.ts:15](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/polkadotIcon.ts#L15)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **r**: *number*
 
-*Defined in [polkadotIcon.ts:16](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-shared/src/polkadotIcon.ts#L16)*
+*Defined in [polkadotIcon.ts:16](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/polkadotIcon.ts#L16)*

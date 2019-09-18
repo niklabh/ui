@@ -20,7 +20,7 @@
 
 ▸ **generate**(`address`: string, `isSixPoint`: boolean): *[Circle](../interfaces/_polkadoticon_.circle.md)[]*
 
-*Defined in [polkadotIcon.ts:137](https://github.com/polkadot-js/ui/blob/6fce4b7/packages/ui-shared/src/polkadotIcon.ts#L137)*
+*Defined in [polkadotIcon.ts:137](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/polkadotIcon.ts#L137)*
 
 **`description`** Generate a array of the circles that make up an indenticon
 
