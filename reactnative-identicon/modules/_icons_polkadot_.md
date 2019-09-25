@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;icons/Polkadot&quot;](_icons_polkadot_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Polkadot"](_icons_polkadot_.md)
 
 # External module: "icons/Polkadot"
 

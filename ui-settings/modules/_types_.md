@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;types&quot;](_types_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["types"](_types_.md)
 
 # External module: "types"
 
@@ -20,6 +18,6 @@
 
 Ƭ **Option**: *object*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L5)*
 
 #### Type declaration:

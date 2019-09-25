@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;icons/Beachball&quot;](_icons_beachball_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Beachball"](_icons_beachball_.md)
 
 # External module: "icons/Beachball"
 
@@ -34,7 +32,7 @@
   }
 })
 
-*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/337f377/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/741ca2a/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 

@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;stores/Browser&quot;](../modules/_stores_browser_.md) › [BrowserStore](_stores_browser_.browserstore.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["stores/Browser"](../modules/_stores_browser_.md) › [BrowserStore](_stores_browser_.browserstore.md)
 
 # Class: BrowserStore
 
@@ -27,7 +25,7 @@
 
 ▸ **all**(`cb`: function): *void*
 
-*Defined in [stores/Browser.ts:10](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/stores/Browser.ts#L10)*
+*Defined in [stores/Browser.ts:10](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/stores/Browser.ts#L10)*
 
 **Parameters:**
 
@@ -50,7 +48,7 @@ ___
 
 ▸ **get**(`key`: string, `cb`: function): *void*
 
-*Defined in [stores/Browser.ts:16](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/stores/Browser.ts#L16)*
+*Defined in [stores/Browser.ts:16](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/stores/Browser.ts#L16)*
 
 **Parameters:**
 
@@ -74,7 +72,7 @@ ___
 
 ▸ **remove**(`key`: string, `cb?`: undefined | function): *void*
 
-*Defined in [stores/Browser.ts:20](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/stores/Browser.ts#L20)*
+*Defined in [stores/Browser.ts:20](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/stores/Browser.ts#L20)*
 
 **Parameters:**
 
@@ -91,7 +89,7 @@ ___
 
 ▸ **set**(`key`: string, `value`: [KeyringJson](../interfaces/_types_.keyringjson.md), `cb?`: undefined | function): *void*
 
-*Defined in [stores/Browser.ts:25](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/stores/Browser.ts#L25)*
+*Defined in [stores/Browser.ts:25](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/stores/Browser.ts#L25)*
 
 **Parameters:**
 

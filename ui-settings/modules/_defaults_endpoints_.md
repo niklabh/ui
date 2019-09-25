@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;defaults/endpoints&quot;](_defaults_endpoints_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["defaults/endpoints"](_defaults_endpoints_.md)
 
 # External module: "defaults/endpoints"
 
@@ -34,7 +32,7 @@
   }, endpoints);
 }, [])
 
-*Defined in [defaults/endpoints.ts:94](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/defaults/endpoints.ts#L94)*
+*Defined in [defaults/endpoints.ts:94](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/defaults/endpoints.ts#L94)*
 
 ___
 
@@ -44,4 +42,4 @@ ___
   ? PROVIDERS.parity.nodes.kusama
   : PROVIDERS.parity.nodes.flamingFir
 
-*Defined in [defaults/endpoints.ts:90](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/defaults/endpoints.ts#L90)*
+*Defined in [defaults/endpoints.ts:90](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/defaults/endpoints.ts#L90)*

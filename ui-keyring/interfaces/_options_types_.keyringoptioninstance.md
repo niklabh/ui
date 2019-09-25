@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;options/types&quot;](../modules/_options_types_.md) › [KeyringOptionInstance](_options_types_.keyringoptioninstance.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["options/types"](../modules/_options_types_.md) › [KeyringOptionInstance](_options_types_.keyringoptioninstance.md)
 
 # Interface: KeyringOptionInstance
 
@@ -21,7 +19,7 @@
 
 • **createOptionHeader**: *function*
 
-*Defined in [options/types.ts:24](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/options/types.ts#L24)*
+*Defined in [options/types.ts:24](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/options/types.ts#L24)*
 
 #### Type declaration:
 
@@ -39,7 +37,7 @@ ___
 
 • **init**: *function*
 
-*Defined in [options/types.ts:25](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/options/types.ts#L25)*
+*Defined in [options/types.ts:25](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/options/types.ts#L25)*
 
 #### Type declaration:
 

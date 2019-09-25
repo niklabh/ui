@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;beachballIcon/shape/square&quot;](_beachballicon_shape_square_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["beachballIcon/shape/square"](_beachballicon_shape_square_.md)
 
 # External module: "beachballIcon/shape/square"
 
@@ -16,7 +14,7 @@
 
 ▸ **square**(`seeder`: [Seeder](_beachballicon_types_.md#seeder), `fill`: string, `diameter`: number, `count`: number): *Element*
 
-*Defined in [beachballIcon/shape/square.ts:11](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/beachballIcon/shape/square.ts#L11)*
+*Defined in [beachballIcon/shape/square.ts:11](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-shared/src/beachballIcon/shape/square.ts#L11)*
 
 **Parameters:**
 

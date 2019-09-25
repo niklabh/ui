@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;beachballIcon/colors&quot;](_beachballicon_colors_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["beachballIcon/colors"](_beachballicon_colors_.md)
 
 # External module: "beachballIcon/colors"
 
@@ -16,7 +14,7 @@
 
 ▸ **colors**(`seeder`: [Seeder](_beachballicon_types_.md#seeder)): *[ColorGen](../interfaces/_beachballicon_types_.colorgen.md)*
 
-*Defined in [beachballIcon/colors.ts:14](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/beachballIcon/colors.ts#L14)*
+*Defined in [beachballIcon/colors.ts:14](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-shared/src/beachballIcon/colors.ts#L14)*
 
 **Parameters:**
 

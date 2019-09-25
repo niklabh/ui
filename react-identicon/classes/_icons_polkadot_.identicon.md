@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;icons/Polkadot&quot;](../modules/_icons_polkadot_.md) › [Identicon](_icons_polkadot_.identicon.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Polkadot"](../modules/_icons_polkadot_.md) › [Identicon](_icons_polkadot_.identicon.md)
 
 # Class: Identicon <**S, SS**>
 
@@ -14,7 +12,7 @@
 
 * PureComponent‹Props›
 
-  * **Identicon**
+  ↳ **Identicon**
 
 ## Index
 
@@ -329,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/337f377/packages/react-identicon/src/icons/Polkadot.tsx#L29)*
+*Defined in [icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-identicon/src/icons/Polkadot.tsx#L29)*
 
 **Returns:** *React.ReactNode*
 

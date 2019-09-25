@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;ledger/types&quot;](../modules/_ledger_types_.md) › [LedgerAddress](_ledger_types_.ledgeraddress.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["ledger/types"](../modules/_ledger_types_.md) › [LedgerAddress](_ledger_types_.ledgeraddress.md)
 
 # Interface: LedgerAddress
 
@@ -21,7 +19,7 @@
 
 • **address**: *string*
 
-*Defined in [ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L10)*
+*Defined in [ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L10)*
 
 ___
 
@@ -29,4 +27,4 @@ ___
 
 • **publicKey**: *string*
 
-*Defined in [ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L11)*
+*Defined in [ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L11)*

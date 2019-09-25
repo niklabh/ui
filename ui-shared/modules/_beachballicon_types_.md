@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;beachballIcon/types&quot;](_beachballicon_types_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["beachballIcon/types"](_beachballicon_types_.md)
 
 # External module: "beachballIcon/types"
 
@@ -20,7 +18,7 @@
 
 Ƭ **Seeder**: *function*
 
-*Defined in [beachballIcon/types.ts:5](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/beachballIcon/types.ts#L5)*
+*Defined in [beachballIcon/types.ts:5](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-shared/src/beachballIcon/types.ts#L5)*
 
 #### Type declaration:
 

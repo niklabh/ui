@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;types&quot;](../modules/_types_.md) › [ContractMeta](_types_.contractmeta.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [ContractMeta](_types_.contractmeta.md)
 
 # Interface: ContractMeta
 
@@ -21,7 +19,7 @@
 
 • **abi**: *string*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L11)*
 
 ___
 
@@ -29,4 +27,4 @@ ___
 
 • **genesisHash**? : *string | null*
 
-*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L12)*
+*Defined in [types.ts:12](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L12)*

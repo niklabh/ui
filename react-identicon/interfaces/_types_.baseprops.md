@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;types&quot;](../modules/_types_.md) › [BaseProps](_types_.baseprops.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [BaseProps](_types_.baseprops.md)
 
 # Interface: BaseProps
 
@@ -8,9 +6,9 @@
 
 * **BaseProps**
 
-  * [Props](_types_.props.md)
+  ↳ [Props](_types_.props.md)
 
-  * [IdentityProps](_types_.identityprops.md)
+  ↳ [IdentityProps](_types_.identityprops.md)
 
 ## Index
 
@@ -25,7 +23,7 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/337f377/packages/react-identicon/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-identicon/src/types.ts#L8)*
 
 ___
 
@@ -33,4 +31,4 @@ ___
 
 • **style**? : *Record‹string, string | number›*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/337f377/packages/react-identicon/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-identicon/src/types.ts#L9)*

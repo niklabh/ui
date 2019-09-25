@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;ScanAddress&quot;](../modules/_scanaddress_.md) › [ScanAddress](_scanaddress_.scanaddress.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["ScanAddress"](../modules/_scanaddress_.md) › [ScanAddress](_scanaddress_.scanaddress.md)
 
 # Class: ScanAddress <**S, SS**>
 
@@ -14,7 +12,7 @@
 
 * PureComponent‹Props›
 
-  * **ScanAddress**
+  ↳ **ScanAddress**
 
 ## Index
 
@@ -329,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [ScanAddress.tsx:25](https://github.com/polkadot-js/ui/blob/337f377/packages/react-qr/src/ScanAddress.tsx#L25)*
+*Defined in [ScanAddress.tsx:25](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-qr/src/ScanAddress.tsx#L25)*
 
 **Returns:** *React.ReactNode*
 

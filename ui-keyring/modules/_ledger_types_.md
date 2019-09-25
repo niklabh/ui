@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;ledger/types&quot;](_ledger_types_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["ledger/types"](_ledger_types_.md)
 
 # External module: "ledger/types"
 
@@ -23,4 +21,4 @@
 
 Ƭ **LedgerTypes**: *"hid" | "u2f" | "webusb"*
 
-*Defined in [ledger/types.ts:7](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L7)*
+*Defined in [ledger/types.ts:7](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L7)*

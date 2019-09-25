@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;Demo&quot;](../modules/_demo_.md) › [Demo](_demo_.demo.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["Demo"](../modules/_demo_.md) › [Demo](_demo_.demo.md)
 
 # Class: Demo <**P, S, SS**>
 
@@ -16,7 +14,7 @@
 
 * PureComponent
 
-  * **Demo**
+  ↳ **Demo**
 
 ## Index
 
@@ -331,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [Demo.tsx:12](https://github.com/polkadot-js/ui/blob/337f377/packages/react-identicon/src/Demo.tsx#L12)*
+*Defined in [Demo.tsx:12](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-identicon/src/Demo.tsx#L12)*
 
 **Returns:** *React.ReactNode*
 

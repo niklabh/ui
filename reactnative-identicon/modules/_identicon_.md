@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;Identicon&quot;](_identicon_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["Identicon"](_identicon_.md)
 
 # External module: "Identicon"
 

@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;stores/Browser&quot;](_stores_browser_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["stores/Browser"](_stores_browser_.md)
 
 # External module: "stores/Browser"
 

@@ -1,6 +1,5 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;qrcode&quot;](_qrcode_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["qrcode"](_qrcode_.md)
 
 # External module: "qrcode"
+
 

@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;types&quot;](_types_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["types"](_types_.md)
 
 # External module: "types"
 
@@ -28,7 +26,7 @@
 
 Ƭ **KeyringAddressType**: *"address" | "contract"*
 
-*Defined in [types.ts:57](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L57)*
+*Defined in [types.ts:57](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L57)*
 
 ___
 
@@ -36,4 +34,4 @@ ___
 
 Ƭ **KeyringItemType**: *"account" | [KeyringAddressType](_types_.md#keyringaddresstype)*
 
-*Defined in [types.ts:59](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L59)*
+*Defined in [types.ts:59](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L59)*

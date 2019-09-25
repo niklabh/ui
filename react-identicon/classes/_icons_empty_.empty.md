@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;icons/Empty&quot;](../modules/_icons_empty_.md) › [Empty](_icons_empty_.empty.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Empty"](../modules/_icons_empty_.md) › [Empty](_icons_empty_.empty.md)
 
 # Class: Empty <**S, SS**>
 
@@ -14,7 +12,7 @@
 
 * PureComponent‹[Props](../interfaces/_types_.props.md)›
 
-  * **Empty**
+  ↳ **Empty**
 
 ## Index
 
@@ -329,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/337f377/packages/react-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-identicon/src/icons/Empty.tsx#L10)*
 
 **Returns:** *React.ReactNode*
 

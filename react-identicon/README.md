@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](README.md)**
-
-[Globals](globals.md)
+[Polkadot JS UI libraries](README.md) › [Globals](globals.md)
 
 # Polkadot JS UI libraries
 

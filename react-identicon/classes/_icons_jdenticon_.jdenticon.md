@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;icons/Jdenticon&quot;](../modules/_icons_jdenticon_.md) › [Jdenticon](_icons_jdenticon_.jdenticon.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Jdenticon"](../modules/_icons_jdenticon_.md) › [Jdenticon](_icons_jdenticon_.jdenticon.md)
 
 # Class: Jdenticon <**S, SS**>
 
@@ -14,7 +12,7 @@
 
 * PureComponent‹[Props](../interfaces/_types_.props.md)›
 
-  * **Jdenticon**
+  ↳ **Jdenticon**
 
 ## Index
 
@@ -329,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Jdenticon.tsx:11](https://github.com/polkadot-js/ui/blob/337f377/packages/react-identicon/src/icons/Jdenticon.tsx#L11)*
+*Defined in [icons/Jdenticon.tsx:11](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-identicon/src/icons/Jdenticon.tsx#L11)*
 
 **Returns:** *React.ReactNode*
 

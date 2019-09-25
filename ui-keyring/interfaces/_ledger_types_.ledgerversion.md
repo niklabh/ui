@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;ledger/types&quot;](../modules/_ledger_types_.md) › [LedgerVersion](_ledger_types_.ledgerversion.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["ledger/types"](../modules/_ledger_types_.md) › [LedgerVersion](_ledger_types_.ledgerversion.md)
 
 # Interface: LedgerVersion
 
@@ -22,7 +20,7 @@
 
 • **isLocked**: *boolean*
 
-*Defined in [ledger/types.ts:19](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L19)*
+*Defined in [ledger/types.ts:19](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L19)*
 
 ___
 
@@ -30,7 +28,7 @@ ___
 
 • **isTestMode**: *boolean*
 
-*Defined in [ledger/types.ts:20](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L20)*
+*Defined in [ledger/types.ts:20](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L20)*
 
 ___
 
@@ -38,4 +36,4 @@ ___
 
 • **version**: *[number, number, number]*
 
-*Defined in [ledger/types.ts:21](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L21)*
+*Defined in [ledger/types.ts:21](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L21)*

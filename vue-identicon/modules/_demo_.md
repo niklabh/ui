@@ -1,6 +1,5 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;Demo&quot;](_demo_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["Demo"](_demo_.md)
 
 # External module: "Demo"
+
 

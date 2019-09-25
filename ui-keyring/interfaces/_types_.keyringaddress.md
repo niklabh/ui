@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;types&quot;](../modules/_types_.md) › [KeyringAddress](_types_.keyringaddress.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [KeyringAddress](_types_.keyringaddress.md)
 
 # Interface: KeyringAddress
 
@@ -22,7 +20,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:52](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L52)*
+*Defined in [types.ts:52](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L52)*
 
 ___
 
@@ -30,7 +28,7 @@ ___
 
 • **meta**: *[KeyringJson$Meta](_types_.keyringjson_meta.md)*
 
-*Defined in [types.ts:53](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L53)*
+*Defined in [types.ts:53](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L53)*
 
 ___
 
@@ -38,4 +36,4 @@ ___
 
 • **publicKey**: *Uint8Array*
 
-*Defined in [types.ts:54](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/types.ts#L54)*
+*Defined in [types.ts:54](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/types.ts#L54)*

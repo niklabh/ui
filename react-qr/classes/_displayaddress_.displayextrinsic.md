@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;DisplayAddress&quot;](../modules/_displayaddress_.md) › [DisplayExtrinsic](_displayaddress_.displayextrinsic.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["DisplayAddress"](../modules/_displayaddress_.md) › [DisplayExtrinsic](_displayaddress_.displayextrinsic.md)
 
 # Class: DisplayExtrinsic <**SS**>
 
@@ -12,7 +10,7 @@
 
 * PureComponent‹Props, State›
 
-  * **DisplayExtrinsic**
+  ↳ **DisplayExtrinsic**
 
 ## Index
 
@@ -332,7 +330,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/337f377/packages/react-qr/src/DisplayAddress.tsx#L40)*
+*Defined in [DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-qr/src/DisplayAddress.tsx#L40)*
 
 **Returns:** *React.ReactNode*
 
@@ -371,7 +369,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/337f377/packages/react-qr/src/DisplayAddress.tsx#L29)*
+*Defined in [DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-qr/src/DisplayAddress.tsx#L29)*
 
 **Parameters:**
 
@@ -388,16 +386,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/337f377/packages/react-qr/src/DisplayAddress.tsx#L24)*
+*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-qr/src/DisplayAddress.tsx#L24)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/337f377/packages/react-qr/src/DisplayAddress.tsx#L25)*
+*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-qr/src/DisplayAddress.tsx#L25)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/337f377/packages/react-qr/src/DisplayAddress.tsx#L26)*
+*Defined in [DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/741ca2a/packages/react-qr/src/DisplayAddress.tsx#L26)*

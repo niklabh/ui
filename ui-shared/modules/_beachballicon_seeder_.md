@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;beachballIcon/seeder&quot;](_beachballicon_seeder_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["beachballIcon/seeder"](_beachballicon_seeder_.md)
 
 # External module: "beachballIcon/seeder"
 
@@ -16,7 +14,7 @@
 
 ▸ **seeder**(`_seed`: string | Uint8Array): *[Seeder](_beachballicon_types_.md#seeder)*
 
-*Defined in [beachballIcon/seeder.ts:11](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-shared/src/beachballIcon/seeder.ts#L11)*
+*Defined in [beachballIcon/seeder.ts:11](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-shared/src/beachballIcon/seeder.ts#L11)*
 
 **Parameters:**
 

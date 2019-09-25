@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;ledger/types&quot;](../modules/_ledger_types_.md) › [TransportDef](_ledger_types_.transportdef.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["ledger/types"](../modules/_ledger_types_.md) › [TransportDef](_ledger_types_.transportdef.md)
 
 # Interface: TransportDef
 
@@ -24,7 +22,7 @@
 
 • **type**: *[LedgerTypes](../modules/_ledger_types_.md#ledgertypes)*
 
-*Defined in [ledger/types.ts:26](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L26)*
+*Defined in [ledger/types.ts:26](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L26)*
 
 ## Methods
 
@@ -32,6 +30,6 @@
 
 ▸ **create**(): *Promise‹Transport›*
 
-*Defined in [ledger/types.ts:25](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-keyring/src/ledger/types.ts#L25)*
+*Defined in [ledger/types.ts:25](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-keyring/src/ledger/types.ts#L25)*
 
 **Returns:** *Promise‹Transport›*

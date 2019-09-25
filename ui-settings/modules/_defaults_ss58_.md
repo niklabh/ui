@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;defaults/ss58&quot;](_defaults_ss58_.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["defaults/ss58"](_defaults_ss58_.md)
 
 # External module: "defaults/ss58"
 
@@ -38,7 +36,7 @@
   }
 ]
 
-*Defined in [defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/defaults/ss58.ts#L9)*
+*Defined in [defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/defaults/ss58.ts#L9)*
 
 ___
 
@@ -46,4 +44,4 @@ ___
 
 • **PREFIX_DEFAULT**: *-1* =  -1
 
-*Defined in [defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/defaults/ss58.ts#L7)*
+*Defined in [defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/defaults/ss58.ts#L7)*

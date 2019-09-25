@@ -1,6 +1,4 @@
-**[Polkadot JS UI libraries](../README.md)**
-
-[Globals](../globals.md) › [&quot;types&quot;](../modules/_types_.md) › [SettingsStruct](_types_.settingsstruct.md)
+[Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [SettingsStruct](_types_.settingsstruct.md)
 
 # Interface: SettingsStruct
 
@@ -31,7 +29,7 @@
 
 • **apiUrl**: *string*
 
-*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L13)*
+*Defined in [types.ts:13](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L13)*
 
 ___
 
@@ -39,7 +37,7 @@ ___
 
 • **i18nLang**: *string*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L14)*
 
 ___
 
@@ -47,7 +45,7 @@ ___
 
 • **icon**: *string*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L15)*
 
 ___
 
@@ -55,7 +53,7 @@ ___
 
 • **ledgerConn**: *string*
 
-*Defined in [types.ts:16](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L16)*
+*Defined in [types.ts:16](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L16)*
 
 ___
 
@@ -63,7 +61,7 @@ ___
 
 • **locking**: *string*
 
-*Defined in [types.ts:17](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L17)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L17)*
 
 ___
 
@@ -71,7 +69,7 @@ ___
 
 • **prefix**: *number*
 
-*Defined in [types.ts:18](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L18)*
+*Defined in [types.ts:18](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L18)*
 
 ___
 
@@ -79,7 +77,7 @@ ___
 
 • **uiMode**: *string*
 
-*Defined in [types.ts:19](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L19)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L19)*
 
 ___
 
@@ -87,4 +85,4 @@ ___
 
 • **uiTheme**: *string*
 
-*Defined in [types.ts:20](https://github.com/polkadot-js/ui/blob/337f377/packages/ui-settings/src/types.ts#L20)*
+*Defined in [types.ts:20](https://github.com/polkadot-js/ui/blob/741ca2a/packages/ui-settings/src/types.ts#L20)*
