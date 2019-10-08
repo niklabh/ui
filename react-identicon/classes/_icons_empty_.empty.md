@@ -40,7 +40,7 @@
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:638
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:641
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -66,7 +66,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:670
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:673
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -102,7 +102,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:698
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:701
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -137,7 +137,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:567
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:570
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -159,7 +159,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:546
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:549
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -173,7 +173,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:609
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:612
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -197,7 +197,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:624
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:627
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -221,7 +221,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:653
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:656
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -255,7 +255,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:562
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:565
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -270,7 +270,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:683
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:686
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -303,7 +303,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:603
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:606
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/b41c519/packages/react-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/6b1a84c/packages/react-identicon/src/icons/Empty.tsx#L10)*
 
 **Returns:** *React.ReactNode*
 
@@ -339,7 +339,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:557
+Defined in /home/travis/build/polkadot-js/ui/node_modules/@types/react/index.d.ts:560
 
 Called to determine whether the change in props and state should trigger a re-render.
 
