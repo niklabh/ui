@@ -18,4 +18,4 @@
 
 • **signature**: *string*
 
-*Defined in [ledger/types.ts:15](https://github.com/polkadot-js/ui/blob/147fec61/packages/ui-keyring/src/ledger/types.ts#L15)*
+*Defined in [ledger/types.ts:15](https://github.com/polkadot-js/ui/blob/79aaacb4/packages/ui-keyring/src/ledger/types.ts#L15)*
