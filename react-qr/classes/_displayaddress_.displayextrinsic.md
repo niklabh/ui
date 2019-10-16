@@ -43,7 +43,7 @@
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:641
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:645
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -69,7 +69,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:673
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:677
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -105,7 +105,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:701
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:705
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -140,7 +140,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:570
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:574
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -162,7 +162,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:549
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:553
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -176,7 +176,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:612
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:616
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -200,7 +200,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:627
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:631
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -224,7 +224,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:656
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:660
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -258,7 +258,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:565
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:569
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -273,7 +273,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:686
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:690
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -306,7 +306,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:606
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:610
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -330,7 +330,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/89cb92a8/packages/react-qr/src/DisplayAddress.tsx#L40)*
+*Defined in [DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/c751dbbd/packages/react-qr/src/DisplayAddress.tsx#L40)*
 
 **Returns:** *React.ReactNode*
 
@@ -342,7 +342,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:560
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:564
 
 Called to determine whether the change in props and state should trigger a re-render.
 
@@ -369,7 +369,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/89cb92a8/packages/react-qr/src/DisplayAddress.tsx#L29)*
+*Defined in [DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/c751dbbd/packages/react-qr/src/DisplayAddress.tsx#L29)*
 
 **Parameters:**
 
@@ -386,16 +386,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/89cb92a8/packages/react-qr/src/DisplayAddress.tsx#L24)*
+*Defined in [DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/c751dbbd/packages/react-qr/src/DisplayAddress.tsx#L24)*
 
 ###  data
 
 • **data**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/89cb92a8/packages/react-qr/src/DisplayAddress.tsx#L25)*
+*Defined in [DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/c751dbbd/packages/react-qr/src/DisplayAddress.tsx#L25)*
 
 ###  dataHash
 
 • **dataHash**: *null* =  null
 
-*Defined in [DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/89cb92a8/packages/react-qr/src/DisplayAddress.tsx#L26)*
+*Defined in [DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/c751dbbd/packages/react-qr/src/DisplayAddress.tsx#L26)*
