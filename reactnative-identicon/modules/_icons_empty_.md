@@ -4,6 +4,22 @@
 
 ## Index
 
-### Classes
+### Functions
 
-* [Empty](../classes/_icons_empty_.empty.md)
+* [Empty](_icons_empty_.md#empty)
+
+## Functions
+
+###  Empty
+
+▸ **Empty**(`__namedParameters`: object): *ReactElement‹[Props](../interfaces/_types_.props.md)›*
+
+*Defined in [icons/Empty.tsx:11](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/reactnative-identicon/src/icons/Empty.tsx#L11)*
+
+**Parameters:**
+
+Name | Type |
+------ | ------ |
+`__namedParameters` | object |
+
+**Returns:** *ReactElement‹[Props](../interfaces/_types_.props.md)›*

@@ -40,7 +40,7 @@
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:645
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:646
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -66,7 +66,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:677
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:678
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -102,7 +102,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:705
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:706
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -137,7 +137,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:574
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:575
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -159,7 +159,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:553
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:554
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -173,7 +173,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:616
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:617
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -197,7 +197,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:631
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:632
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -221,7 +221,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:660
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:661
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -255,7 +255,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:569
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:570
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -270,7 +270,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:690
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:691
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -303,7 +303,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:610
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:611
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/c5883505/packages/react-identicon/src/icons/Polkadot.tsx#L29)*
+*Defined in [icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/react-identicon/src/icons/Polkadot.tsx#L29)*
 
 **Returns:** *React.ReactNode*
 
@@ -339,7 +339,7 @@ ___
 
 *Inherited from void*
 
-Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:564
+Defined in /home/runner/work/ui/ui/node_modules/@types/react/index.d.ts:565
 
 Called to determine whether the change in props and state should trigger a re-render.
 

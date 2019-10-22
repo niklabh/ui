@@ -19,7 +19,7 @@
 
 • **address**: *string*
 
-*Defined in [ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/c5883505/packages/ui-keyring/src/ledger/types.ts#L10)*
+*Defined in [ledger/types.ts:10](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/ui-keyring/src/ledger/types.ts#L10)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **publicKey**: *string*
 
-*Defined in [ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/c5883505/packages/ui-keyring/src/ledger/types.ts#L11)*
+*Defined in [ledger/types.ts:11](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/ui-keyring/src/ledger/types.ts#L11)*
