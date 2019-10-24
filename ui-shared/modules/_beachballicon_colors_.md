@@ -14,7 +14,7 @@
 
 ▸ **colors**(`seeder`: [Seeder](_beachballicon_types_.md#seeder)): *[ColorGen](../interfaces/_beachballicon_types_.colorgen.md)*
 
-*Defined in [beachballIcon/colors.ts:14](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/ui-shared/src/beachballIcon/colors.ts#L14)*
+*Defined in [beachballIcon/colors.ts:14](https://github.com/polkadot-js/ui/blob/d9cc92db/packages/ui-shared/src/beachballIcon/colors.ts#L14)*
 
 **Parameters:**
 

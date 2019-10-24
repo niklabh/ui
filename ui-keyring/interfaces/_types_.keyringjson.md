@@ -19,7 +19,7 @@
 
 • **address**: *string*
 
-*Defined in [types.ts:47](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/ui-keyring/src/types.ts#L47)*
+*Defined in [types.ts:47](https://github.com/polkadot-js/ui/blob/d9cc92db/packages/ui-keyring/src/types.ts#L47)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **meta**: *[KeyringJson$Meta](_types_.keyringjson_meta.md)*
 
-*Defined in [types.ts:48](https://github.com/polkadot-js/ui/blob/f2f36e2d/packages/ui-keyring/src/types.ts#L48)*
+*Defined in [types.ts:48](https://github.com/polkadot-js/ui/blob/d9cc92db/packages/ui-keyring/src/types.ts#L48)*
