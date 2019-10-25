@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [icons/Beachball.tsx:11](https://github.com/polkadot-js/ui/blob/7e9af00a/packages/react-identicon/src/icons/Beachball.tsx#L11)*
+*Defined in [icons/Beachball.tsx:11](https://github.com/polkadot-js/ui/blob/76efc560/packages/react-identicon/src/icons/Beachball.tsx#L11)*
 
 **Returns:** *React.ReactNode*
 
