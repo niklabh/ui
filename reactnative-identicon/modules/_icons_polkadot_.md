@@ -14,7 +14,7 @@
 
 ▸ **Identicon**(`__namedParameters`: object): *ReactElement‹Props›*
 
-*Defined in [icons/Polkadot.tsx:28](https://github.com/polkadot-js/ui/blob/76efc560/packages/reactnative-identicon/src/icons/Polkadot.tsx#L28)*
+*Defined in [icons/Polkadot.tsx:28](https://github.com/polkadot-js/ui/blob/0c215d98/packages/reactnative-identicon/src/icons/Polkadot.tsx#L28)*
 
 **Parameters:**
 

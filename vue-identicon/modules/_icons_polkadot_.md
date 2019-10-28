@@ -36,7 +36,7 @@
   }
 })
 
-*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/76efc560/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
+*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/0c215d98/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
 
 **`name`** Polkadot
 
