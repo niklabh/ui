@@ -12,7 +12,7 @@
 
 ### `Const` Beachball
 
-• **Beachball**: *VueConstructor‹Data & object & object & Vue›* =  Vue.extend({
+• **Beachball**: *VueConstructor‹Data & object & object & Vue‹››* =  Vue.extend({
   // eslint-disable-next-line quotes
   template: `<div v-html="html" />`,
   props: ['address', 'size'],
@@ -32,7 +32,7 @@
   }
 })
 
-*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/ebcb4115/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/f6c85f27/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 
