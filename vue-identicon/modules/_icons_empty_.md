@@ -21,7 +21,7 @@
   props: ['size']
 })
 
-*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/f6c85f27/packages/vue-identicon/src/icons/Empty.ts#L11)*
+*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/be451f1b/packages/vue-identicon/src/icons/Empty.ts#L11)*
 
 **`name`** Empty
 
