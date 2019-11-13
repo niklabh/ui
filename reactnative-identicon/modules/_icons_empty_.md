@@ -14,7 +14,7 @@
 
 ▸ **Empty**(`__namedParameters`: object): *ReactElement‹[Props](../interfaces/_types_.props.md)›*
 
-*Defined in [icons/Empty.tsx:11](https://github.com/polkadot-js/ui/blob/6066d0e6/packages/reactnative-identicon/src/icons/Empty.tsx#L11)*
+*Defined in [icons/Empty.tsx:11](https://github.com/polkadot-js/ui/blob/391ab513/packages/reactnative-identicon/src/icons/Empty.tsx#L11)*
 
 **Parameters:**
 
