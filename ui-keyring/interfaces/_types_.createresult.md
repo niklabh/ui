@@ -19,7 +19,7 @@
 
 • **json**: *KeyringPair$Json*
 
-*Defined in [types.ts:62](https://github.com/polkadot-js/ui/blob/35e08e3c/packages/ui-keyring/src/types.ts#L62)*
+*Defined in [types.ts:62](https://github.com/polkadot-js/ui/blob/192749a4/packages/ui-keyring/src/types.ts#L62)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **pair**: *KeyringPair*
 
-*Defined in [types.ts:63](https://github.com/polkadot-js/ui/blob/35e08e3c/packages/ui-keyring/src/types.ts#L63)*
+*Defined in [types.ts:63](https://github.com/polkadot-js/ui/blob/192749a4/packages/ui-keyring/src/types.ts#L63)*
