@@ -7,6 +7,7 @@
 ### External modules
 
 * ["Settings"](modules/_settings_.md)
+* ["defaults/chains"](modules/_defaults_chains_.md)
 * ["defaults/crypto"](modules/_defaults_crypto_.md)
 * ["defaults/endpoints"](modules/_defaults_endpoints_.md)
 * ["defaults/ledger"](modules/_defaults_ledger_.md)
