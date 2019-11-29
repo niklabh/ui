@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-qr/src/ScanAddress.tsx:25](https://github.com/polkadot-js/ui/blob/b3f255a2/packages/react-qr/src/ScanAddress.tsx#L25)*
+*Defined in [packages/react-qr/src/ScanAddress.tsx:25](https://github.com/polkadot-js/ui/blob/4c642741/packages/react-qr/src/ScanAddress.tsx#L25)*
 
 **Returns:** *React.ReactNode*
 
