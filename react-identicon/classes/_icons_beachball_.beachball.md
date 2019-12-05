@@ -40,7 +40,7 @@
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:658
+Defined in node_modules/@types/react/index.d.ts:659
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -66,7 +66,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:690
+Defined in node_modules/@types/react/index.d.ts:691
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -102,7 +102,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:718
+Defined in node_modules/@types/react/index.d.ts:719
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -137,7 +137,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:587
+Defined in node_modules/@types/react/index.d.ts:588
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -159,7 +159,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:566
+Defined in node_modules/@types/react/index.d.ts:567
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -169,11 +169,11 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: [SS](undefined)): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: SS): *void*
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:629
+Defined in node_modules/@types/react/index.d.ts:630
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -185,7 +185,7 @@ Name | Type |
 ------ | ------ |
 `prevProps` | Readonly‹[Props](../interfaces/_types_.props.md)› |
 `prevState` | Readonly‹S› |
-`snapshot?` | [SS](undefined) |
+`snapshot?` | SS |
 
 **Returns:** *void*
 
@@ -197,7 +197,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:644
+Defined in node_modules/@types/react/index.d.ts:645
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -221,7 +221,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:673
+Defined in node_modules/@types/react/index.d.ts:674
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -255,7 +255,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:582
+Defined in node_modules/@types/react/index.d.ts:583
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -270,7 +270,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:703
+Defined in node_modules/@types/react/index.d.ts:704
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -303,7 +303,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:623
+Defined in node_modules/@types/react/index.d.ts:624
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/icons/Beachball.tsx:11](https://github.com/polkadot-js/ui/blob/4c642741/packages/react-identicon/src/icons/Beachball.tsx#L11)*
+*Defined in [packages/react-identicon/src/icons/Beachball.tsx:11](https://github.com/polkadot-js/ui/blob/d47361f8/packages/react-identicon/src/icons/Beachball.tsx#L11)*
 
 **Returns:** *React.ReactNode*
 
@@ -339,7 +339,7 @@ ___
 
 *Inherited from void*
 
-Defined in node_modules/@types/react/index.d.ts:577
+Defined in node_modules/@types/react/index.d.ts:578
 
 Called to determine whether the change in props and state should trigger a re-render.
 
