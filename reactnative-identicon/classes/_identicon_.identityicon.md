@@ -331,7 +331,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/reactnative-identicon/src/Identicon.tsx#L65)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/619659ad/packages/reactnative-identicon/src/Identicon.tsx#L65)*
 
 **Returns:** *React.ReactNode*
 
@@ -370,7 +370,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:47](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/reactnative-identicon/src/Identicon.tsx#L47)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:47](https://github.com/polkadot-js/ui/blob/619659ad/packages/reactnative-identicon/src/Identicon.tsx#L47)*
 
 **Parameters:**
 
@@ -387,7 +387,7 @@ ___
 
 ▸ **setDefaultPrefix**(`prefix`: Prefix): *void*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:43](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/reactnative-identicon/src/Identicon.tsx#L43)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:43](https://github.com/polkadot-js/ui/blob/619659ad/packages/reactnative-identicon/src/Identicon.tsx#L43)*
 
 **Parameters:**
 
@@ -403,16 +403,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:36](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/reactnative-identicon/src/Identicon.tsx#L36)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:36](https://github.com/polkadot-js/ui/blob/619659ad/packages/reactnative-identicon/src/Identicon.tsx#L36)*
 
 ###  address
 
 • **address**: *string* = ""
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:37](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/reactnative-identicon/src/Identicon.tsx#L37)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:37](https://github.com/polkadot-js/ui/blob/619659ad/packages/reactnative-identicon/src/Identicon.tsx#L37)*
 
 ###  publicKey
 
 • **publicKey**: *string* = "0x"
 
-*Defined in [packages/reactnative-identicon/src/Identicon.tsx:38](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/reactnative-identicon/src/Identicon.tsx#L38)*
+*Defined in [packages/reactnative-identicon/src/Identicon.tsx:38](https://github.com/polkadot-js/ui/blob/619659ad/packages/reactnative-identicon/src/Identicon.tsx#L38)*

@@ -10,7 +10,7 @@
 
 ▸ (`alpha?`: undefined | number): *string*
 
-*Defined in [beachballIcon/types.ts:7](https://github.com/polkadot-js/ui/blob/f4a570ca/packages/ui-shared/src/beachballIcon/types.ts#L7)*
+*Defined in [beachballIcon/types.ts:7](https://github.com/polkadot-js/ui/blob/619659ad/packages/ui-shared/src/beachballIcon/types.ts#L7)*
 
 **Parameters:**
 
