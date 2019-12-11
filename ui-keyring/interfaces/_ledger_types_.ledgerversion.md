@@ -20,7 +20,7 @@
 
 • **isLocked**: *boolean*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:19](https://github.com/polkadot-js/ui/blob/619659ad/packages/ui-keyring/src/ledger/types.ts#L19)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:19](https://github.com/polkadot-js/ui/blob/a8df514c/packages/ui-keyring/src/ledger/types.ts#L19)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **isTestMode**: *boolean*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:20](https://github.com/polkadot-js/ui/blob/619659ad/packages/ui-keyring/src/ledger/types.ts#L20)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:20](https://github.com/polkadot-js/ui/blob/a8df514c/packages/ui-keyring/src/ledger/types.ts#L20)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **version**: *[number, number, number]*
 
-*Defined in [packages/ui-keyring/src/ledger/types.ts:21](https://github.com/polkadot-js/ui/blob/619659ad/packages/ui-keyring/src/ledger/types.ts#L21)*
+*Defined in [packages/ui-keyring/src/ledger/types.ts:21](https://github.com/polkadot-js/ui/blob/a8df514c/packages/ui-keyring/src/ledger/types.ts#L21)*

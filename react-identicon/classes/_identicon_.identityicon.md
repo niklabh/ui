@@ -331,7 +331,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:96](https://github.com/polkadot-js/ui/blob/619659ad/packages/react-identicon/src/Identicon.tsx#L96)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:96](https://github.com/polkadot-js/ui/blob/a8df514c/packages/react-identicon/src/Identicon.tsx#L96)*
 
 **Returns:** *React.ReactNode*
 
@@ -370,7 +370,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:75](https://github.com/polkadot-js/ui/blob/619659ad/packages/react-identicon/src/Identicon.tsx#L75)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:75](https://github.com/polkadot-js/ui/blob/a8df514c/packages/react-identicon/src/Identicon.tsx#L75)*
 
 **Parameters:**
 
@@ -387,7 +387,7 @@ ___
 
 ▸ **setDefaultPrefix**(`prefix`: Prefix): *void*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:71](https://github.com/polkadot-js/ui/blob/619659ad/packages/react-identicon/src/Identicon.tsx#L71)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:71](https://github.com/polkadot-js/ui/blob/a8df514c/packages/react-identicon/src/Identicon.tsx#L71)*
 
 **Parameters:**
 
@@ -403,16 +403,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/619659ad/packages/react-identicon/src/Identicon.tsx#L64)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/a8df514c/packages/react-identicon/src/Identicon.tsx#L64)*
 
 ###  address
 
 • **address**: *string* = ""
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/619659ad/packages/react-identicon/src/Identicon.tsx#L65)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/a8df514c/packages/react-identicon/src/Identicon.tsx#L65)*
 
 ###  publicKey
 
 • **publicKey**: *string* = "0x"
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:66](https://github.com/polkadot-js/ui/blob/619659ad/packages/react-identicon/src/Identicon.tsx#L66)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:66](https://github.com/polkadot-js/ui/blob/a8df514c/packages/react-identicon/src/Identicon.tsx#L66)*
