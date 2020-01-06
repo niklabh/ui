@@ -31,7 +31,7 @@
   }
 ]
 
-*Defined in [defaults/ledger.ts:9](https://github.com/polkadot-js/ui/blob/560c6746/packages/ui-settings/src/defaults/ledger.ts#L9)*
+*Defined in [defaults/ledger.ts:9](https://github.com/polkadot-js/ui/blob/6bc4e537/packages/ui-settings/src/defaults/ledger.ts#L9)*
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 • **LEDGER_CONN_DEFAULT**: *"none"* = "none"
 
-*Defined in [defaults/ledger.ts:7](https://github.com/polkadot-js/ui/blob/560c6746/packages/ui-settings/src/defaults/ledger.ts#L7)*
+*Defined in [defaults/ledger.ts:7](https://github.com/polkadot-js/ui/blob/6bc4e537/packages/ui-settings/src/defaults/ledger.ts#L7)*
