@@ -12,7 +12,7 @@
 
 ### `Const` CRYPTOS
 
-• **CRYPTOS**: *[Option](_types_.md#option)[]* =  [
+• **CRYPTOS**: *[Option](_types_.md#option)[]* = [
   {
     info: 'ed25519',
     text: 'Edwards (ed25519)',
@@ -25,4 +25,4 @@
   }
 ]
 
-*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/crypto.ts#L7)*
+*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/crypto.ts#L7)*

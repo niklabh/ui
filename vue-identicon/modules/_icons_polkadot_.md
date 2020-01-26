@@ -12,7 +12,7 @@
 
 ### `Const` Polkadot
 
-• **Polkadot**: *VueConstructor‹Data & object & object & Vue‹››* =  Vue.extend({
+• **Polkadot**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
   // eslint-disable-next-line quotes
   template: `<div v-html="svgHtml" />`,
   props: ['address', 'size'],
@@ -36,7 +36,7 @@
   }
 })
 
-*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/b7819483/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
+*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/b814d754/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
 
 **`name`** Polkadot
 

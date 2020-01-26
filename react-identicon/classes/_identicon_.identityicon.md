@@ -42,7 +42,7 @@
 
 ▸ **UNSAFE_componentWillMount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillMount](_icons_beachball_.beachball.md#optional-unsafe_componentwillmount)*
 
 Defined in node_modules/@types/react/index.d.ts:660
 
@@ -68,7 +68,7 @@ ___
 
 ▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillReceiveProps](_icons_beachball_.beachball.md#optional-unsafe_componentwillreceiveprops)*
 
 Defined in node_modules/@types/react/index.d.ts:692
 
@@ -104,7 +104,7 @@ ___
 
 ▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextState`: Readonly‹State›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillUpdate](_icons_beachball_.beachball.md#optional-unsafe_componentwillupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:720
 
@@ -139,7 +139,7 @@ ___
 
 ▸ **componentDidCatch**(`error`: Error, `errorInfo`: ErrorInfo): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidCatch](_icons_beachball_.beachball.md#optional-componentdidcatch)*
 
 Defined in node_modules/@types/react/index.d.ts:589
 
@@ -161,7 +161,7 @@ ___
 
 ▸ **componentDidMount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidMount](_icons_beachball_.beachball.md#optional-componentdidmount)*
 
 Defined in node_modules/@types/react/index.d.ts:568
 
@@ -175,7 +175,7 @@ ___
 
 ▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹State›, `snapshot?`: SS): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidUpdate](_icons_beachball_.beachball.md#optional-componentdidupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:631
 
@@ -199,7 +199,7 @@ ___
 
 ▸ **componentWillMount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillMount](_icons_beachball_.beachball.md#optional-componentwillmount)*
 
 Defined in node_modules/@types/react/index.d.ts:646
 
@@ -223,7 +223,7 @@ ___
 
 ▸ **componentWillReceiveProps**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillReceiveProps](_icons_beachball_.beachball.md#optional-componentwillreceiveprops)*
 
 Defined in node_modules/@types/react/index.d.ts:675
 
@@ -257,7 +257,7 @@ ___
 
 ▸ **componentWillUnmount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillUnmount](_icons_beachball_.beachball.md#optional-componentwillunmount)*
 
 Defined in node_modules/@types/react/index.d.ts:584
 
@@ -272,7 +272,7 @@ ___
 
 ▸ **componentWillUpdate**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextState`: Readonly‹State›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillUpdate](_icons_beachball_.beachball.md#optional-componentwillupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:705
 
@@ -305,7 +305,7 @@ ___
 
 ▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹State›): *SS | null*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[getSnapshotBeforeUpdate](_icons_beachball_.beachball.md#optional-getsnapshotbeforeupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:625
 
@@ -331,7 +331,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:96](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/Identicon.tsx#L96)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:96](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/Identicon.tsx#L96)*
 
 **Returns:** *React.ReactNode*
 
@@ -341,7 +341,7 @@ ___
 
 ▸ **shouldComponentUpdate**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextState`: Readonly‹State›, `nextContext`: any): *boolean*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[shouldComponentUpdate](_icons_beachball_.beachball.md#optional-shouldcomponentupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:579
 
@@ -370,14 +370,18 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:75](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/Identicon.tsx#L75)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:75](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/Identicon.tsx#L75)*
 
 **Parameters:**
 
-Name | Type |
------- | ------ |
-`__namedParameters` | object |
-`prevState` | State |
+▪ **__namedParameters**: *object*
+
+Name | Type | Default |
+------ | ------ | ------ |
+`prefix` | undefined &#124; number | IdentityIcon.prefix |
+`value` | undefined &#124; null &#124; string &#124; Uint8Array‹› | - |
+
+▪ **prevState**: *State*
 
 **Returns:** *State | null*
 
@@ -387,7 +391,7 @@ ___
 
 ▸ **setDefaultPrefix**(`prefix`: Prefix): *void*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:71](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/Identicon.tsx#L71)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:71](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/Identicon.tsx#L71)*
 
 **Parameters:**
 
@@ -403,16 +407,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/Identicon.tsx#L64)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:64](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/Identicon.tsx#L64)*
 
 ###  address
 
 • **address**: *string* = ""
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/Identicon.tsx#L65)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:65](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/Identicon.tsx#L65)*
 
 ###  publicKey
 
 • **publicKey**: *string* = "0x"
 
-*Defined in [packages/react-identicon/src/Identicon.tsx:66](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/Identicon.tsx#L66)*
+*Defined in [packages/react-identicon/src/Identicon.tsx:66](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/Identicon.tsx#L66)*

@@ -38,7 +38,7 @@
 
 ▸ **UNSAFE_componentWillMount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillMount](_icons_beachball_.beachball.md#optional-unsafe_componentwillmount)*
 
 Defined in node_modules/@types/react/index.d.ts:660
 
@@ -64,7 +64,7 @@ ___
 
 ▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillReceiveProps](_icons_beachball_.beachball.md#optional-unsafe_componentwillreceiveprops)*
 
 Defined in node_modules/@types/react/index.d.ts:692
 
@@ -100,7 +100,7 @@ ___
 
 ▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextState`: Readonly‹S›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillUpdate](_icons_beachball_.beachball.md#optional-unsafe_componentwillupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:720
 
@@ -135,7 +135,7 @@ ___
 
 ▸ **componentDidCatch**(`error`: Error, `errorInfo`: ErrorInfo): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidCatch](_icons_beachball_.beachball.md#optional-componentdidcatch)*
 
 Defined in node_modules/@types/react/index.d.ts:589
 
@@ -157,7 +157,7 @@ ___
 
 ▸ **componentDidMount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidMount](_icons_beachball_.beachball.md#optional-componentdidmount)*
 
 Defined in node_modules/@types/react/index.d.ts:568
 
@@ -171,7 +171,7 @@ ___
 
 ▸ **componentDidUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›, `snapshot?`: SS): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidUpdate](_icons_beachball_.beachball.md#optional-componentdidupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:631
 
@@ -195,7 +195,7 @@ ___
 
 ▸ **componentWillMount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillMount](_icons_beachball_.beachball.md#optional-componentwillmount)*
 
 Defined in node_modules/@types/react/index.d.ts:646
 
@@ -219,7 +219,7 @@ ___
 
 ▸ **componentWillReceiveProps**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillReceiveProps](_icons_beachball_.beachball.md#optional-componentwillreceiveprops)*
 
 Defined in node_modules/@types/react/index.d.ts:675
 
@@ -253,7 +253,7 @@ ___
 
 ▸ **componentWillUnmount**(): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillUnmount](_icons_beachball_.beachball.md#optional-componentwillunmount)*
 
 Defined in node_modules/@types/react/index.d.ts:584
 
@@ -268,7 +268,7 @@ ___
 
 ▸ **componentWillUpdate**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextState`: Readonly‹S›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillUpdate](_icons_beachball_.beachball.md#optional-componentwillupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:705
 
@@ -301,7 +301,7 @@ ___
 
 ▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `prevState`: Readonly‹S›): *SS | null*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[getSnapshotBeforeUpdate](_icons_beachball_.beachball.md#optional-getsnapshotbeforeupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:625
 
@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/icons/Beachball.tsx:11](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-identicon/src/icons/Beachball.tsx#L11)*
+*Defined in [packages/react-identicon/src/icons/Beachball.tsx:11](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-identicon/src/icons/Beachball.tsx#L11)*
 
 **Returns:** *React.ReactNode*
 
@@ -337,7 +337,7 @@ ___
 
 ▸ **shouldComponentUpdate**(`nextProps`: Readonly‹[Props](../interfaces/_types_.props.md)›, `nextState`: Readonly‹S›, `nextContext`: any): *boolean*
 
-*Inherited from void*
+*Inherited from [Beachball](_icons_beachball_.beachball.md).[shouldComponentUpdate](_icons_beachball_.beachball.md#optional-shouldcomponentupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:579
 

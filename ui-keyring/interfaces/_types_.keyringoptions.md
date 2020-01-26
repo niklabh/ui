@@ -26,7 +26,7 @@
 
 • **addressPrefix**? : *Prefix*
 
-*Inherited from void*
+*Inherited from [KeyringOptions](_types_.keyringoptions.md).[addressPrefix](_types_.keyringoptions.md#optional-addressprefix)*
 
 Defined in node_modules/@polkadot/keyring/types.d.ts:4
 
@@ -36,7 +36,7 @@ ___
 
 • **filter**? : *undefined | function*
 
-*Defined in [packages/ui-keyring/src/types.ts:23](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-keyring/src/types.ts#L23)*
+*Defined in [packages/ui-keyring/src/types.ts:23](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-keyring/src/types.ts#L23)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **genesisHash**? : *Hash*
 
-*Defined in [packages/ui-keyring/src/types.ts:24](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-keyring/src/types.ts#L24)*
+*Defined in [packages/ui-keyring/src/types.ts:24](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-keyring/src/types.ts#L24)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **isDevelopment**? : *undefined | false | true*
 
-*Defined in [packages/ui-keyring/src/types.ts:25](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-keyring/src/types.ts#L25)*
+*Defined in [packages/ui-keyring/src/types.ts:25](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-keyring/src/types.ts#L25)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **ss58Format**? : *Prefix*
 
-*Inherited from void*
+*Inherited from [KeyringOptions](_types_.keyringoptions.md).[ss58Format](_types_.keyringoptions.md#optional-ss58format)*
 
 Defined in node_modules/@polkadot/keyring/types.d.ts:5
 
@@ -70,7 +70,7 @@ ___
 
 • **store**? : *[KeyringStore](_types_.keyringstore.md)*
 
-*Defined in [packages/ui-keyring/src/types.ts:26](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-keyring/src/types.ts#L26)*
+*Defined in [packages/ui-keyring/src/types.ts:26](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-keyring/src/types.ts#L26)*
 
 ___
 
@@ -78,6 +78,6 @@ ___
 
 • **type**? : *KeypairType*
 
-*Inherited from void*
+*Inherited from [KeyringOptions](_types_.keyringoptions.md).[type](_types_.keyringoptions.md#optional-type)*
 
 Defined in node_modules/@polkadot/keyring/types.d.ts:6

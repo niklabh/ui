@@ -13,7 +13,7 @@
 
 ### `Const` ENDPOINTS
 
-• **ENDPOINTS**: *[Option](_types_.md#option)[]* =  ORDER_CHAINS.reduce((endpoints: Option[], chainName): Option[] => {
+• **ENDPOINTS**: *[Option](_types_.md#option)[]* = ORDER_CHAINS.reduce((endpoints: Option[], chainName): Option[] => {
   const { chainDisplay, logo, type } = CHAIN_INFO[chainName];
 
   return ORDER_PROVIDERS.reduce((endpoints: Option[], providerName): Option[] => {
@@ -32,14 +32,14 @@
   }, endpoints);
 }, [])
 
-*Defined in [defaults/endpoints.ts:111](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/endpoints.ts#L111)*
+*Defined in [defaults/endpoints.ts:111](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/endpoints.ts#L111)*
 
 ___
 
 ### `Const` ENDPOINT_DEFAULT
 
-• **ENDPOINT_DEFAULT**: *undefined | string* =  isPolkadot
+• **ENDPOINT_DEFAULT**: *undefined | string* = isPolkadot
   ? PROVIDERS.parity.nodes.kusama
   : PROVIDERS.parity.nodes.flamingFir
 
-*Defined in [defaults/endpoints.ts:107](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/endpoints.ts#L107)*
+*Defined in [defaults/endpoints.ts:107](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/endpoints.ts#L107)*

@@ -13,7 +13,7 @@
 
 ### `Const` PREFIXES
 
-• **PREFIXES**: *[Option](_types_.md#option)[]* =  [
+• **PREFIXES**: *[Option](_types_.md#option)[]* = [
   {
     info: 'default',
     text: 'Default for the connected node',
@@ -36,12 +36,12 @@
   }
 ]
 
-*Defined in [defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/ss58.ts#L9)*
+*Defined in [defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/ss58.ts#L9)*
 
 ___
 
 ### `Const` PREFIX_DEFAULT
 
-• **PREFIX_DEFAULT**: *-1* =  -1
+• **PREFIX_DEFAULT**: *-1* = -1
 
-*Defined in [defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/ss58.ts#L7)*
+*Defined in [defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/ss58.ts#L7)*

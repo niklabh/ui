@@ -13,7 +13,7 @@
 
 ### `Const` LEDGER_CONN
 
-• **LEDGER_CONN**: *[Option](_types_.md#option)[]* =  [
+• **LEDGER_CONN**: *[Option](_types_.md#option)[]* = [
   {
     info: 'none',
     text: 'Do not attach Ledger devices',
@@ -31,7 +31,7 @@
   }
 ]
 
-*Defined in [defaults/ledger.ts:9](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/ledger.ts#L9)*
+*Defined in [defaults/ledger.ts:9](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/ledger.ts#L9)*
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 • **LEDGER_CONN_DEFAULT**: *"none"* = "none"
 
-*Defined in [defaults/ledger.ts:7](https://github.com/polkadot-js/ui/blob/b7819483/packages/ui-settings/src/defaults/ledger.ts#L7)*
+*Defined in [defaults/ledger.ts:7](https://github.com/polkadot-js/ui/blob/b814d754/packages/ui-settings/src/defaults/ledger.ts#L7)*

@@ -41,7 +41,7 @@
 
 ▸ **UNSAFE_componentWillMount**(): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[UNSAFE_componentWillMount](_displayaddress_.displayextrinsic.md#optional-unsafe_componentwillmount)*
 
 Defined in node_modules/@types/react/index.d.ts:660
 
@@ -67,7 +67,7 @@ ___
 
 ▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹Props›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[UNSAFE_componentWillReceiveProps](_displayaddress_.displayextrinsic.md#optional-unsafe_componentwillreceiveprops)*
 
 Defined in node_modules/@types/react/index.d.ts:692
 
@@ -103,7 +103,7 @@ ___
 
 ▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹Props›, `nextState`: Readonly‹State›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[UNSAFE_componentWillUpdate](_displayaddress_.displayextrinsic.md#optional-unsafe_componentwillupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:720
 
@@ -138,7 +138,7 @@ ___
 
 ▸ **componentDidCatch**(`error`: Error, `errorInfo`: ErrorInfo): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentDidCatch](_displayaddress_.displayextrinsic.md#optional-componentdidcatch)*
 
 Defined in node_modules/@types/react/index.d.ts:589
 
@@ -160,7 +160,7 @@ ___
 
 ▸ **componentDidMount**(): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentDidMount](_displayaddress_.displayextrinsic.md#optional-componentdidmount)*
 
 Defined in node_modules/@types/react/index.d.ts:568
 
@@ -174,7 +174,7 @@ ___
 
 ▸ **componentDidUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›, `snapshot?`: SS): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentDidUpdate](_displayaddress_.displayextrinsic.md#optional-componentdidupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:631
 
@@ -198,7 +198,7 @@ ___
 
 ▸ **componentWillMount**(): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillMount](_displayaddress_.displayextrinsic.md#optional-componentwillmount)*
 
 Defined in node_modules/@types/react/index.d.ts:646
 
@@ -222,7 +222,7 @@ ___
 
 ▸ **componentWillReceiveProps**(`nextProps`: Readonly‹Props›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillReceiveProps](_displayaddress_.displayextrinsic.md#optional-componentwillreceiveprops)*
 
 Defined in node_modules/@types/react/index.d.ts:675
 
@@ -256,7 +256,7 @@ ___
 
 ▸ **componentWillUnmount**(): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillUnmount](_displayaddress_.displayextrinsic.md#optional-componentwillunmount)*
 
 Defined in node_modules/@types/react/index.d.ts:584
 
@@ -271,7 +271,7 @@ ___
 
 ▸ **componentWillUpdate**(`nextProps`: Readonly‹Props›, `nextState`: Readonly‹State›, `nextContext`: any): *void*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillUpdate](_displayaddress_.displayextrinsic.md#optional-componentwillupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:705
 
@@ -304,7 +304,7 @@ ___
 
 ▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹Props›, `prevState`: Readonly‹State›): *SS | null*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[getSnapshotBeforeUpdate](_displayaddress_.displayextrinsic.md#optional-getsnapshotbeforeupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:625
 
@@ -330,7 +330,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-qr/src/DisplayPayload.tsx:41](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-qr/src/DisplayPayload.tsx#L41)*
+*Defined in [packages/react-qr/src/DisplayPayload.tsx:41](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-qr/src/DisplayPayload.tsx#L41)*
 
 **Returns:** *React.ReactNode*
 
@@ -340,7 +340,7 @@ ___
 
 ▸ **shouldComponentUpdate**(`nextProps`: Readonly‹Props›, `nextState`: Readonly‹State›, `nextContext`: any): *boolean*
 
-*Inherited from void*
+*Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[shouldComponentUpdate](_displayaddress_.displayextrinsic.md#optional-shouldcomponentupdate)*
 
 Defined in node_modules/@types/react/index.d.ts:579
 
@@ -369,14 +369,19 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [packages/react-qr/src/DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-qr/src/DisplayPayload.tsx#L30)*
+*Defined in [packages/react-qr/src/DisplayPayload.tsx:30](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-qr/src/DisplayPayload.tsx#L30)*
 
 **Parameters:**
 
+▪ **__namedParameters**: *object*
+
 Name | Type |
 ------ | ------ |
-`__namedParameters` | object |
-`prevState` | State |
+`address` | string |
+`cmd` | number |
+`payload` | Uint8Array‹› |
+
+▪ **prevState**: *State*
 
 **Returns:** *State | null*
 
@@ -386,16 +391,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [packages/react-qr/src/DisplayPayload.tsx:25](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-qr/src/DisplayPayload.tsx#L25)*
+*Defined in [packages/react-qr/src/DisplayPayload.tsx:25](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-qr/src/DisplayPayload.tsx#L25)*
 
 ###  data
 
-• **data**: *null* =  null
+• **data**: *null* = null
 
-*Defined in [packages/react-qr/src/DisplayPayload.tsx:26](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-qr/src/DisplayPayload.tsx#L26)*
+*Defined in [packages/react-qr/src/DisplayPayload.tsx:26](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-qr/src/DisplayPayload.tsx#L26)*
 
 ###  dataHash
 
-• **dataHash**: *null* =  null
+• **dataHash**: *null* = null
 
-*Defined in [packages/react-qr/src/DisplayPayload.tsx:27](https://github.com/polkadot-js/ui/blob/b7819483/packages/react-qr/src/DisplayPayload.tsx#L27)*
+*Defined in [packages/react-qr/src/DisplayPayload.tsx:27](https://github.com/polkadot-js/ui/blob/b814d754/packages/react-qr/src/DisplayPayload.tsx#L27)*
