@@ -32,7 +32,7 @@
   }, endpoints);
 }, [])
 
-*Defined in [defaults/endpoints.ts:111](https://github.com/polkadot-js/ui/blob/fe4e6df9/packages/ui-settings/src/defaults/endpoints.ts#L111)*
+*Defined in [defaults/endpoints.ts:111](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/ui-settings/src/defaults/endpoints.ts#L111)*
 
 ___
 
@@ -42,4 +42,4 @@ ___
   ? PROVIDERS.parity.nodes.kusama
   : PROVIDERS.parity.nodes.flamingFir
 
-*Defined in [defaults/endpoints.ts:107](https://github.com/polkadot-js/ui/blob/fe4e6df9/packages/ui-settings/src/defaults/endpoints.ts#L107)*
+*Defined in [defaults/endpoints.ts:107](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/ui-settings/src/defaults/endpoints.ts#L107)*
