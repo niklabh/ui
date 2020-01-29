@@ -20,7 +20,7 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [packages/react-qr/src/types.ts:6](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/react-qr/src/types.ts#L6)*
+*Defined in [packages/react-qr/src/types.ts:6](https://github.com/polkadot-js/ui/blob/083f901c/packages/react-qr/src/types.ts#L6)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **size**? : *string | number*
 
-*Defined in [packages/react-qr/src/types.ts:7](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/react-qr/src/types.ts#L7)*
+*Defined in [packages/react-qr/src/types.ts:7](https://github.com/polkadot-js/ui/blob/083f901c/packages/react-qr/src/types.ts#L7)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **style**? : *Record‹string, string | number›*
 
-*Defined in [packages/react-qr/src/types.ts:8](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/react-qr/src/types.ts#L8)*
+*Defined in [packages/react-qr/src/types.ts:8](https://github.com/polkadot-js/ui/blob/083f901c/packages/react-qr/src/types.ts#L8)*

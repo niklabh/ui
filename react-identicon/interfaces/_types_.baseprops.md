@@ -23,7 +23,7 @@
 
 • **className**? : *undefined | string*
 
-*Defined in [packages/react-identicon/src/types.ts:8](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/react-identicon/src/types.ts#L8)*
+*Defined in [packages/react-identicon/src/types.ts:8](https://github.com/polkadot-js/ui/blob/083f901c/packages/react-identicon/src/types.ts#L8)*
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 • **style**? : *Record‹string, string | number›*
 
-*Defined in [packages/react-identicon/src/types.ts:9](https://github.com/polkadot-js/ui/blob/9579e6b7/packages/react-identicon/src/types.ts#L9)*
+*Defined in [packages/react-identicon/src/types.ts:9](https://github.com/polkadot-js/ui/blob/083f901c/packages/react-identicon/src/types.ts#L9)*
