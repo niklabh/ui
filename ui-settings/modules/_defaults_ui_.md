@@ -42,7 +42,7 @@
   }
 ]
 
-*Defined in [defaults/ui.ts:51](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L51)*
+*Defined in [defaults/ui.ts:51](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L51)*
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 • **ICON_DEFAULT**: *"default"* = "default"
 
-*Defined in [defaults/ui.ts:45](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L45)*
+*Defined in [defaults/ui.ts:45](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L45)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
   ? 'polkadot'
   : 'substrate'
 
-*Defined in [defaults/ui.ts:47](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L47)*
+*Defined in [defaults/ui.ts:47](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L47)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 • **LANGUAGE_DEFAULT**: *"default"* = "default"
 
-*Defined in [defaults/ui.ts:9](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L9)*
+*Defined in [defaults/ui.ts:9](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L9)*
 
 ___
 
@@ -87,7 +87,7 @@ ___
   }
 ]
 
-*Defined in [defaults/ui.ts:15](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L15)*
+*Defined in [defaults/ui.ts:15](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L15)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
   ? 'light'
   : 'full'
 
-*Defined in [defaults/ui.ts:11](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L11)*
+*Defined in [defaults/ui.ts:11](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L11)*
 
 ___
 
@@ -116,7 +116,7 @@ ___
   }
 ]
 
-*Defined in [defaults/ui.ts:32](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L32)*
+*Defined in [defaults/ui.ts:32](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L32)*
 
 ___
 
@@ -126,4 +126,4 @@ ___
   ? 'polkadot'
   : 'substrate'
 
-*Defined in [defaults/ui.ts:28](https://github.com/polkadot-js/ui/blob/083f901c/packages/ui-settings/src/defaults/ui.ts#L28)*
+*Defined in [defaults/ui.ts:28](https://github.com/polkadot-js/ui/blob/2677b543/packages/ui-settings/src/defaults/ui.ts#L28)*
