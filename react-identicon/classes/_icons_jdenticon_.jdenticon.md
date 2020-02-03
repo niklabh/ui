@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/icons/Jdenticon.tsx:11](https://github.com/polkadot-js/ui/blob/2677b543/packages/react-identicon/src/icons/Jdenticon.tsx#L11)*
+*Defined in [packages/react-identicon/src/icons/Jdenticon.tsx:11](https://github.com/polkadot-js/ui/blob/55fd7977/packages/react-identicon/src/icons/Jdenticon.tsx#L11)*
 
 **Returns:** *React.ReactNode*
 
